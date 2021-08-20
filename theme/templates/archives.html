@@ -1,0 +1,37 @@
+{% extends "base.html" %}
+{% block content %}
+<div id="content" style="padding-top: 20px">
+{% block content_title %}
+<section>
+<h2>Archives pour {{ SITENAME }}</h2>
+<section>
+{% endblock %}
+
+  <section>
+    <div class="posts">
+  {% for a in articles_page.object_list %}
+      <article>
+
+        {% if a.splash_url %}
+    <a href="{{ SITEURL }}/{{ a.url }}" class="image"><img src="{{ SITEURL }}/{{a.splash_url}}" alt="" /></a>
+        {% endif %}
+
+    <h3>{{ a.title }}</h3>
+
+    {% if a.summary %}
+    <p>{{ a.summary }}</p>
+
+    <ul class="actions">
+      <li><a href="{{ SITEURL }}/{{ a.url }}" class="button">Plus</a></li>
+    </ul>
+
+      </article>
+    {% endif %}
+  {% endfor %}
+    </div>
+  </section>
+
+  {% include "paginator.html" %}
+
+</div>
+{% endblock %}

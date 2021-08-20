@@ -1,0 +1,166 @@
+{% extends "base.html" %} {% block content %}
+<!-- Banner -->
+<section id="banner">
+  <div class="content">
+    <header>
+      <h1>
+        Hi, I’m Patricia<br />
+        Marchand
+      </h1>
+      <p>Un site contenant des jeux de physique en libre accès.</p>
+    </header>
+    <p>
+      Professeure de physique depuis 31 ans, je développe de nombreux jeux dans
+      le cadre de mes cours. Ils permettent de découvrir en s'amusant et
+      d'assimiler les connaissances sans s'en rendre compte ! Vous trouverez ici
+      un grand nombre de ces jeux, avec leurs règles et les documents et outils
+      nécessaires pour jouer. Have fun !
+    </p>
+    <ul class="actions">
+      <li>
+        <a href="{{ SITEURL }}/pages/generic.html" class="button big">En savoir plus</a>
+      </li>
+    </ul>
+  </div>
+  <span class="image object">
+    <!-- <img src="{{ SITEURL }}/images/main.jpg" alt="" /> -->
+    <img src="{{ SITEURL }}/images/IMAG1471.JPG" alt="" />
+  </span>
+</section>
+
+<!-- Section -->
+<!-- <section>
+  <header class="major">
+    <h2>Erat lacinia</h2>
+  </header>
+  <div class="features">
+    <article>
+      <span class="icon fa-gem"></span>
+      <div class="content">
+        <h3>Portitor ullamcorper</h3>
+        <p>
+          Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore.
+          Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat
+          tempus aliquam.
+        </p>
+      </div>
+    </article>
+    <article>
+      <span class="icon solid fa-paper-plane"></span>
+      <div class="content">
+        <h3>Sapien veroeros</h3>
+        <p>
+          Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore.
+          Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat
+          tempus aliquam.
+        </p>
+      </div>
+    </article>
+    <article>
+      <span class="icon solid fa-rocket"></span>
+      <div class="content">
+        <h3>Quam lorem ipsum</h3>
+        <p>
+          Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore.
+          Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat
+          tempus aliquam.
+        </p>
+      </div>
+    </article>
+    <article>
+      <span class="icon solid fa-signal"></span>
+      <div class="content">
+        <h3>Sed magna finibus</h3>
+        <p>
+          Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore.
+          Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat
+          tempus aliquam.
+        </p>
+      </div>
+    </article>
+  </div>
+</section> -->
+
+<!-- Section -->
+<section>
+  <header class="major">
+    <h2>Jeux récents</h2>
+  </header>
+  <div class="posts">
+    {% for a in articles %} {% if loop.index < 7 %} <article>
+      {% if a.splash_url %}
+      <!-- <a href="{{ SITEURL }}/{{ a.url }}" class="image"><img src="{{ SITEURL }}/{{a.splash_url}}" alt="" /></a> -->
+      <div class="card-container">
+        <div class="card">
+          <a href="{{ SITEURL }}/{{ a.url }}" class="image">
+            <!-- style="background-image: url({{a.splash_url}}); background-repeat: no-repeat;
+  background-size:cover"> -->
+            <div class="card--display demo-css" style="background-image: url({{a.splash_url}});">
+              <img src=" {{ SITEURL }}/{{a.splash_url}}" style="opacity: 0%;" alt="" />
+              {% if a.splash_color%}
+              <h2 class="target" style="            
+                --tooltip-color: {{a.splash_color}};">{{ a.title }}</h2>
+              {% else %}
+              <h2 class="target" style="
+                --tooltip-color: #000000;"">{{ a.title }}</h2>
+              {% endif %}
+            </div>
+            <div class=" card--hover">
+                <h2>{{ a.title }}</h2>
+                <p>{{ a.summary }}</p>
+                <!-- <p class="link">Click to see project</p> -->
+                <div class="button primary" style="margin-top: 100px">Plus</div>
+            </div>
+          </a>
+          <div class="card--border"></div>
+        </div>
+      </div>
+      {% endif %}
+
+      <!-- <h3>{{ a.title }}</h3>
+
+      {% if a.summary %}
+      <p>{{ a.summary }}</p> -->
+      <!-- {% endif %} -->
+
+      <!-- <ul class="actions">
+        <li><a href="{{ SITEURL }}/{{ a.url }}" class="button">Plus</a></li>
+      </ul> -->
+      </article>
+      {% endif %} {% endfor %}
+  </div>
+</section>
+
+<div style="max-width: 500px; margin: auto">
+  <ul class="actions fit">
+    <li>
+      <a href="{{ SITEURL }}/archives" class="button fit">Plus d'articles</a>
+    </li>
+  </ul>
+</div>
+
+<form method="post">
+  <div class="row gtr-uniform">
+    <div class="col-6 col-12-xsmall">
+      <input type="text" name="name" id="name" value placeholder="Name"></>
+    </div>
+    <div class="col-6 col-12-xsmall">
+      <input type="email" name="email" id="email" value placeholder="Email"></>
+    </div>
+    <div class="col-12">
+      <textarea name="message" id="message" placeholder="Enter your message" rows="6"></textarea>
+    </div>
+    <div class="col-12">
+      <ul class="actions">
+        <li>
+          <input type="submit" value="Send Message" class="primary">
+        </li>
+        <li>
+          <input type="reset" value="Reset">
+        </li>
+      </ul>
+    </div>
+  </div>
+</form>
+
+{% endblock content %}

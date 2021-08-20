@@ -1,0 +1,6 @@
+pelican
+beautifulsoup4
+pelican[markdown]
+pelican-render-math
+pelican-share-post
+ghp-import
