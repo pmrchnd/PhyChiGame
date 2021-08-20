@@ -68,8 +68,10 @@ goto :venv_activate
 :publish
     echo.
     echo Publishing the website
+    call git add --all
     call git commit -m "Updated website"
     call git push origin master
+    
     call ghp-import output
     call git push origin gh-pages
     echo.
