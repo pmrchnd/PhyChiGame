@@ -1,0 +1,913 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Science en jeux</title><link href="/" rel="alternate"></link><link href="/feeds/all-fr.atom.xml" rel="self"></link><id>/</id><updated>2021-09-04T12:50:00+02:00</updated><subtitle>Apprendre en jouant</subtitle><subtitle>Apprendre en jouant</subtitle><entry><title>Escape Game</title><link href="/escape-game.html" rel="alternate"></link><published>2021-09-04T12:50:00+02:00</published><updated>2021-09-04T12:50:00+02:00</updated><author><name>P. Marchand</name></author><id>tag:None,2021-09-04:/escape-game.html</id><summary type="html">&lt;p class="first last"&gt;Jeu de cartes basé sur le principe d’un escape game sur le thème de la musique.&lt;/p&gt;
+</summary><content type="html">&lt;hr class="docutils" /&gt;
+&lt;p&gt;Ce jeu a été réalisé à l'aide du site &amp;quot;Serious Escape Cards&amp;quot; qui propose clé en main de créer des escape games.&lt;/p&gt;
+&lt;p&gt;Lien : &lt;a class="reference external" href="https://escapecards.fr/"&gt;Site de Serious Escape Cards&lt;/a&gt;&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;div class="section" id="escape-game-sur-le-theme-de-la-musique"&gt;
+&lt;h2&gt;Escape Game sur le thème de la musique&lt;/h2&gt;
+&lt;p&gt;Il s’agit d’un jeu de cartes basé sur le principe d’un escape game.&lt;/p&gt;
+&lt;div class="section" id="nombre-de-joueurs"&gt;
+&lt;h3&gt;Nombre de joueurs&lt;/h3&gt;
+&lt;p&gt;Le jeu se joue préférentiellement en équipe. Il peut cependant se jouer seul.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="jeu"&gt;
+&lt;h3&gt;Jeu&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Les joueurs utilisent un jeu de cartes et une application web.&lt;/li&gt;
+&lt;li&gt;Le jeu se déroule en équipe et tous les joueurs collaborent pour terminer le jeu dans le temps imparti.&lt;/li&gt;
+&lt;li&gt;Le scénario, les décors, les énigmes et les objets sont présents à travers les cartes et les éléments multimédia intégrés à l’application. Cette version du jeu ne nécessite pas d’autre matériel, à part pour la prise de note.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Voir les vidéos explicatives du site &amp;quot;Serious Escape Cards&amp;quot; :&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Lien : &lt;a class="reference external" href="https://tube-toulouse.beta.education.fr/videos/watch/ffb29502-3f74-4dbe-ab70-c529cc71210b?start=5s/"&gt;Vidéo du concept du jeu&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Lien : &lt;a class="reference external" href="https://www.youtube.com/watch?v=ScCjmlcn3Gg&amp;amp;feature=emb_logo/"&gt;Vidéo explicative de l'escape game&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content><category term="Review"></category><category term="2nde"></category></entry><entry><title>GaAg</title><link href="/gaag.html" rel="alternate"></link><published>2021-09-04T11:40:00+02:00</published><updated>2021-09-04T11:40:00+02:00</updated><author><name>P. Marchand</name></author><id>tag:None,2021-09-04:/gaag.html</id><summary type="html">&lt;p class="first last"&gt;Jeu de cartes pour apprendre les éléments (nom, valeur de Z, position dans le tableau) des trois premières lignes du tableau périodique.&lt;/p&gt;
+</summary><content type="html">&lt;hr class="docutils" /&gt;
+&lt;p&gt;Jeu inspiré du jeu de cartes MOW.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;div class="section" id="regle-du-jeu"&gt;
+&lt;h2&gt;Règle du jeu&lt;/h2&gt;
+&lt;div class="section" id="but-du-jeu"&gt;
+&lt;h3&gt;But du jeu&lt;/h3&gt;
+&lt;p&gt;Apprendre les éléments (nom, valeur de Z, position dans le tableau) des trois premières lignes du tableau périodique.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="nombre-de-joueurs"&gt;
+&lt;h3&gt;Nombre de joueurs&lt;/h3&gt;
+&lt;p&gt;3 ou 4 joueurs&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="presentation-du-jeu"&gt;
+&lt;h3&gt;Présentation du Jeu&lt;/h3&gt;
+&lt;p&gt;GaAg est un jeu de cartes qui contient 70 cartes  :&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;18 éléments, sans aucun atome,&lt;/li&gt;
+&lt;li&gt;16 éléments, de Z = 2 à Z = 17, avec un atome,&lt;/li&gt;
+&lt;li&gt;14 éléments, de Z = 3 à Z = 16, avec deux atomes,&lt;/li&gt;
+&lt;li&gt;12 éléments, de Z = 4 à Z = 15, avec trois atomes,&lt;/li&gt;
+&lt;li&gt;4 éléments, de Z = 9 à Z = 12, avec quatre atomes,&lt;/li&gt;
+&lt;li&gt;6 cartes spéciales ( Z=7 et Z=8 noté « liaison et &amp;quot;&amp;lt; &amp;gt;&amp;quot;), avec 5 atomes et 1 super-pouvoir,&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div class="section" id="deroulement-d-une-partie"&gt;
+&lt;h3&gt;Déroulement d'une Partie&lt;/h3&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Les 70 cartes sont mélangées, et chaque joueur en reçoit 5.&lt;/li&gt;
+&lt;li&gt;A son tour, un joueur doit jouer l'une des cartes de sa main, pour compléter le tableau présent sur la table. Pour cela, il peut soit :&lt;ul&gt;
+&lt;li&gt;jouer une carte « élément » de Z plus petit que tous les éléments déjà placés,&lt;/li&gt;
+&lt;li&gt;jouer une carte « élément » de Z plus plus grand que tous les éléments déjà placés,&lt;/li&gt;
+&lt;li&gt;jouer une carte spéciale,&lt;/li&gt;
+&lt;li&gt;ramasser l'ensemble des cartes, qu'il place alors face cachée devant lui, puis commencer un nouveau tableau.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Ensuite, le joueur pioche une nouvelle carte afin de compléter sa main.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="cartes-speciales"&gt;
+&lt;h3&gt;Cartes spéciales&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Les éléments de valeur Z = 1 et Z= 18 permettent à coup sûr de &amp;quot;fermer&amp;quot; l'une des extrémités du tableau.&lt;/li&gt;
+&lt;li&gt;Les cartes Z =7 et Z = 8 sont des cartes « liaison » qui se lient aux autres éléments de valeurs Z =7 et     Z = 8.&lt;/li&gt;
+&lt;li&gt;Enfin les cartes &amp;quot;&amp;lt; &amp;gt;&amp;quot; sont des cartes qui peuvent se placer dans les intervalles laissés libres dans le tableau. Par exemple, entre des cartes de valeurs Z = 3 et Z = 5, il est possible de placer une carte spéciale &amp;quot;&amp;lt; &amp;gt;&amp;quot;. Par contre, entre les cartes Z = 3 et Z = 6, c'est impossible car 2 valeurs manquent (4 et 5).&lt;/li&gt;
+&lt;li&gt;Enfin jouer une carte spéciale offre la possibilité de changer le sens de jeu.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div class="section" id="fin-de-partie"&gt;
+&lt;h3&gt;Fin de partie&lt;/h3&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Lorsqu'un joueur pioche la dernière carte, le jeu se poursuit jusqu'à ce que le dernier tableau soit ramassé.&lt;/li&gt;
+&lt;li&gt;Les joueurs ajoutent les cartes qu'ils ont en main aux cartes qu'ils ont devant eux,  puis comptent le nombre total d’atomes en leur possession. Les scores sont notés et une nouvelle manche commence.&lt;/li&gt;
+&lt;li&gt;Lorsqu'un joueur totalise 100 atomes ou plus, la partie est terminée. Le gagnant est le joueur ayant le plus petit nombre total d’atomes.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content><category term="Review"></category><category term="2nde"></category></entry><entry><title>Concept</title><link href="/concept.html" rel="alternate"></link><published>2021-08-27T09:40:00+02:00</published><updated>2021-08-27T09:40:00+02:00</updated><author><name>P. Marchand</name></author><id>tag:None,2021-08-27:/concept.html</id><summary type="html">&lt;p class="first last"&gt;Revoir les différentes notions vues tout au long de l'année&lt;/p&gt;
+</summary><content type="html">&lt;hr class="docutils" /&gt;
+&lt;p&gt;Jeu inspiré du jeu homonyme &lt;strong&gt;Concept&lt;/strong&gt; édité par &lt;strong&gt;Repos production&lt;/strong&gt; et sorti en 2014.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;div class="section" id="regle-du-jeu"&gt;
+&lt;h2&gt;Règle du jeu&lt;/h2&gt;
+&lt;div class="section" id="but-du-jeu"&gt;
+&lt;h3&gt;But du jeu&lt;/h3&gt;
+&lt;blockquote&gt;
+Revoir les différentes notions vues tout au long de l'année&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div class="section" id="nombre-de-joueurs"&gt;
+&lt;h3&gt;Nombre de joueurs&lt;/h3&gt;
+&lt;blockquote&gt;
+3 ou 4 joueurs   ou   3 ou 4 équipes&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div class="section" id="deroulement-de-la-partie"&gt;
+&lt;h3&gt;Déroulement de la partie&lt;/h3&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Piocher une carte concept&lt;/li&gt;
+&lt;li&gt;Tenter de le faire deviner aux autres joueurs en plaçant les pièces vertes (concept principal) sur les icônes, puis ajouter les éventuels concepts associés (jetons d’autres couleurs)&lt;/li&gt;
+&lt;li&gt;Distribution des points :&lt;ul&gt;
+&lt;li&gt;Le Joueur qui trouve le mot gagne 2 points&lt;/li&gt;
+&lt;li&gt;Le joueur (ou chacun des membres de l’équipe) qui fait deviner  gagne 1 point&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="remarques"&gt;
+&lt;h2&gt;Remarques&lt;/h2&gt;
+&lt;p&gt;Dans le fichier PDF, la règle est plus détaillée, en particulier un exemple est fourni.&lt;/p&gt;
+&lt;p&gt;Les jetons peuvent être réalisés avec une imprimante 3D our vous pouvez aussi prendre des haricots secs sur lesquels vous mettez des points colorés !&lt;/p&gt;
+&lt;/div&gt;
+</content><category term="Review"></category><category term="2nde"></category><category term="1ère"></category><category term="Tle"></category></entry><entry><title>Mistigri</title><link href="/mistigri.html" rel="alternate"></link><published>2021-08-26T10:17:00+02:00</published><updated>2021-08-26T10:17:00+02:00</updated><author><name>P. Marchand</name></author><id>tag:None,2021-08-26:/mistigri.html</id><summary type="html">&lt;p class="first last"&gt;L’objectif de ce jeu est d’associer par paire une carte élément avec sa position dans le tableau et une carte structure électronique. Une version &amp;quot;jeu de 7 familles&amp;quot; est aussi proposée.&lt;/p&gt;
+</summary><content type="html">&lt;hr class="docutils" /&gt;
+&lt;div class="section" id="version-1-mistigri"&gt;
+&lt;h2&gt;Version 1 : Mistigri&lt;/h2&gt;
+&lt;div class="section" id="jeu"&gt;
+&lt;h3&gt;Jeu&lt;/h3&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;18 cartes « élément chimique »&lt;/li&gt;
+&lt;li&gt;18 cartes structure électronique »&lt;/li&gt;
+&lt;li&gt;1 carte qui correspond au mistigri « Mendeleïev »&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="nombre-de-joueurs"&gt;
+&lt;h3&gt;Nombre de joueurs&lt;/h3&gt;
+&lt;blockquote&gt;
+3 ou 4&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div class="section" id="duree-du-jeu"&gt;
+&lt;h3&gt;Durée du jeu&lt;/h3&gt;
+&lt;blockquote&gt;
+20 min&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div class="section" id="regle"&gt;
+&lt;h3&gt;Règle&lt;/h3&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Mélanger et distribuer toutes les cartes.&lt;/li&gt;
+&lt;li&gt;Dans un premier temps, chaque joueur regarde s’il peut faire des paires « élément chimique-structure électronique » et les pose devant lui. Avant de continuer, vérifier que personne ne s’est trompé.&lt;/li&gt;
+&lt;li&gt;Le joueur le plus jeune commence. Il tire une carte dans le jeu de son voisin de droite. S’il peut faire une parie, il la pose devant lui, sinon le jeu continue. Si le joueur s’est trompé (la structure électronique n’est pas celle de l’élément chimique), le joueur qui a le mistigri lui donne.&lt;/li&gt;
+&lt;li&gt;Le joueur de droite tire à son tour dans le jeu de son voisin de droite…&lt;/li&gt;
+&lt;li&gt;Le perdant est celui qui garde le mistigri quand toutes les cartes ont été posées.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="version-2-jeu-de-familles"&gt;
+&lt;h2&gt;Version 2 : Jeu de familles&lt;/h2&gt;
+&lt;p&gt;Le but du jeu est de relier un élément chimique et sa structure électronique, et d’obtenir le maximum de familles chimiques.&lt;/p&gt;
+&lt;div class="section" id="id1"&gt;
+&lt;h3&gt;Nombre de joueurs&lt;/h3&gt;
+&lt;blockquote&gt;
+3 ou 4&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div class="section" id="id2"&gt;
+&lt;h3&gt;Durée du jeu&lt;/h3&gt;
+&lt;blockquote&gt;
+30 min&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div class="section" id="id3"&gt;
+&lt;h3&gt;Règle&lt;/h3&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Mélanger les cartes.&lt;/li&gt;
+&lt;li&gt;Distribuer 5 cartes à chaque joueur, les cartes restantes constituent la pioche.&lt;/li&gt;
+&lt;li&gt;Le joueur le plus jeune commence. Il demande au joueur de son choix s’il possède une carte « élément chimique » ou « structure électronique » qui lui permettrait de faire une paire. Si le joueur possède la carte, il pose sa paire devant lui et continue à jouer. Sinon, il doit piocher une carte. Si la carte piochée est la carte demandée, il doit dire « bonne pioche » et il peut continuer à jouer, sinon c’est au joueur placé à sa droite de jouer.&lt;/li&gt;
+&lt;li&gt;Dès qu’un joueur possède une famille, il doit la poser devant lui.&lt;/li&gt;
+&lt;li&gt;Le gagnant est celui qui a, à la fin, le plus de familles. Chaque famille est constituée de deux éléments chimiques, sauf les gaz nobles qui en possèdent trois et l’hydrogène qui est tout seul.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="version-3-jeu-de-familles"&gt;
+&lt;h2&gt;Version 3 : Jeu de familles&lt;/h2&gt;
+&lt;div class="section" id="id4"&gt;
+&lt;h3&gt;Jeu&lt;/h3&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;18 cartes « élément chimique »&lt;/li&gt;
+&lt;li&gt;46 cartes « couche électronique », sur ces cartes il n’y a qu’une partie de la structure électronique (ex : 1s2 ou 2p3…)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="id5"&gt;
+&lt;h3&gt;Nombre de joueurs&lt;/h3&gt;
+&lt;blockquote&gt;
+3 ou 4&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div class="section" id="id6"&gt;
+&lt;h3&gt;Durée du jeu&lt;/h3&gt;
+&lt;blockquote&gt;
+30-40 min&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div class="section" id="id7"&gt;
+&lt;h3&gt;Règle&lt;/h3&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Mélanger les cartes.&lt;/li&gt;
+&lt;li&gt;Distribuer 7 cartes à chaque joueur, les cartes restantes constituent la pioche.&lt;/li&gt;
+&lt;li&gt;Le joueur le plus jeune commence. Il demande au joueur de son choix s’il possède une carte « élément chimique » ou « couche électronique » qui lui permettrait de faire une famille. Si le joueur possède la carte, il pose sa paire devant lui et continue à jouer. Sinon, il doit piocher une carte. Si la carte piochée est la carte demandée, il doit dire « bonne pioche » et il peut continuer à jouer, sinon c’est au joueur placé à sa droite de jouer.&lt;/li&gt;
+&lt;li&gt;Dès qu’un joueur possède une famille, il doit la poser devant lui.&lt;/li&gt;
+&lt;li&gt;Le gagnant est celui qui a, à la fin, le plus de familles. Chaque famille est constituée de deux éléments chimiques, sauf les gaz nobles qui en possèdent trois et l’hydrogène qui est tout seul.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content><category term="Review"></category><category term="2nde"></category></entry><entry><title>Memory</title><link href="/memory.html" rel="alternate"></link><published>2021-08-26T09:18:00+02:00</published><updated>2021-08-26T09:18:00+02:00</updated><author><name>P. Marchand</name></author><id>tag:None,2021-08-26:/memory.html</id><summary type="html">&lt;p class="first last"&gt;Se familiariser avec les notions de stéréoisomères, de diastéréoisomères et d'énantionmères&lt;/p&gt;
+</summary><content type="html">&lt;hr class="docutils" /&gt;
+&lt;div class="section" id="jeu-memory"&gt;
+&lt;h2&gt;Jeu Mémory&lt;/h2&gt;
+&lt;p&gt;Ce jeu a été réalisé et publié dans l'académie de Versailles.&lt;/p&gt;
+&lt;p&gt;Lien : &lt;a class="reference external" href="https://phychim.ac-versailles.fr/spip.php?article766"&gt;Site de l'académie de Versailles&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="principe"&gt;
+&lt;h2&gt;Principe&lt;/h2&gt;
+&lt;p&gt;Chaque équipe joue avec le jeu de cartes différent. Chaque équipe doit jouer avec tous les jeux. On change de jeu toutes les 15 min.&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Les cartes sont mélangées puis placées sur une table de manière à cacher la face imprimée.&lt;/li&gt;
+&lt;li&gt;À tour de rôle, chaque joueur retourne deux cartes.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="regles-du-jeu"&gt;
+&lt;h2&gt;Règles du jeu&lt;/h2&gt;
+&lt;ol class="arabic simple"&gt;
+&lt;li&gt;le joueur pense qu’il s’agit d’un couple.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Si les autres joueurs valident : il marque 2 points et retire les 2 cartes.&lt;/li&gt;
+&lt;li&gt;Si les autres joueurs invalident : il marque -2 points. Les 2 cartes sont replacées.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;ol class="arabic simple" start="2"&gt;
+&lt;li&gt;Le joueur pense qu’il ne s’agit pas d’un couple.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Si les autres joueurs valident : il marque 1 point et replace les 2 cartes.&lt;/li&gt;
+&lt;li&gt;Si les autres joueurs invalident : il marque -2 points. Les 2 cartes sont replacées.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;div class="section" id="les-differents-jeux"&gt;
+&lt;h3&gt;Les différents jeux&lt;/h3&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;les énantioméres&lt;/li&gt;
+&lt;li&gt;les diastéréoisomères Z/E&lt;/li&gt;
+&lt;li&gt;les diastéréoisomères&lt;/li&gt;
+&lt;li&gt;molécules identiques&lt;/li&gt;
+&lt;li&gt;nomenclature&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content><category term="Review"></category><category term="Tle"></category></entry><entry><title>Pictionnary</title><link href="/pictionnary.html" rel="alternate"></link><published>2021-08-25T13:40:00+02:00</published><updated>2021-08-25T13:40:00+02:00</updated><author><name>P. Marchand</name></author><id>tag:None,2021-08-25:/pictionnary.html</id><summary type="html">&lt;p class="first last"&gt;Jeu de fin d'année ou en l'aménageant de fin de chapitre pour revoir les différentes notions vues en cours&lt;/p&gt;
+</summary><content type="html">&lt;hr class="docutils" /&gt;
+&lt;div class="section" id="regle-du-jeu"&gt;
+&lt;h2&gt;Règle du jeu&lt;/h2&gt;
+&lt;div class="section" id="but-du-jeu"&gt;
+&lt;h3&gt;But du jeu&lt;/h3&gt;
+&lt;p&gt;Jeu de fin d'année ou en l'aménageant de fin de chapitre pour revoir les différentes notions vues en cours&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="nombre-de-joueurs"&gt;
+&lt;h3&gt;Nombre de joueurs&lt;/h3&gt;
+&lt;p&gt;2 à 4 équipes&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="deroulement-de-la-partie"&gt;
+&lt;h3&gt;Déroulement de la partie&lt;/h3&gt;
+&lt;div class="section" id="comment-commencer-une-partie-de-pictionary"&gt;
+&lt;h4&gt;Comment commencer une partie de Pictionary ?&lt;/h4&gt;
+&lt;p&gt;Avant de commencer vous devez constituer les équipes. Le nombre d’équipe ne peut être supérieur à 4.
+Chaque équipe doit lancer le dé c’est celle qui a fait le nombre le plus élevé qui commence la partie.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="comment-jouer-au-pictionary"&gt;
+&lt;h4&gt;Comment jouer au Pictionary ?&lt;/h4&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Le dessinateur qui commence prend une première carte et lit en secret le mot qu’il doit dessiner.&lt;/li&gt;
+&lt;li&gt;Un joueur retourne le sablier et le dessinateur a une minute pour faire trouver le mot à son équipe.&lt;/li&gt;
+&lt;li&gt;Le joueur continue à dessiner jusqu’à ce que le mot soit trouvé ou que le temps soit écoulé. Si l’équipe trouve le mot, elle pioche une nouvelle carte pour continuer à jouer.&lt;/li&gt;
+&lt;li&gt;Tant que le temps n'est pas écoulé, elle continue à dessiner.&lt;/li&gt;
+&lt;li&gt;Si le mot n’est pas trouvé dans le temps limite, le dé passe à l’équipe située à gauche.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="attention-au-pictionary"&gt;
+&lt;h4&gt;ATTENTION AU PICTIONARY&lt;/h4&gt;
+&lt;p&gt;Vous pouvez :&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;dessiner tout ce qui se rapporte à un mot, même si le rapport est très lointain&lt;/li&gt;
+&lt;li&gt;diviser les mots en syllabes&lt;/li&gt;
+&lt;li&gt;dessiner « verre » pour « vers»&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Vous ne pouvez pas :&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;dessiner des tirets pour indiquer le nombre de lettres d’un mot&lt;/li&gt;
+&lt;li&gt;utiliser des lettres ou des chiffres&lt;/li&gt;
+&lt;li&gt;parler à vos coéquipiers&lt;/li&gt;
+&lt;li&gt;mimer&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content><category term="Review"></category><category term="2nde"></category></entry><entry><title>Unités d'énergie</title><link href="/unites-denergie.html" rel="alternate"></link><published>2021-08-25T10:40:00+02:00</published><updated>2021-08-25T10:40:00+02:00</updated><author><name>P. Marchand</name></author><id>tag:None,2021-08-25:/unites-denergie.html</id><summary type="html">&lt;p class="first last"&gt;Jeu de l'oie pour se familiariser avec les unités d'énergie et de puissance.&lt;/p&gt;
+</summary><content type="html">&lt;hr class="docutils" /&gt;
+&lt;div class="section" id="regles-du-jeu"&gt;
+&lt;h2&gt;Règles du jeu&lt;/h2&gt;
+&lt;div class="section" id="nombre-de-joueurs"&gt;
+&lt;h3&gt;Nombre de joueurs&lt;/h3&gt;
+&lt;p&gt;2 et plus&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="deroulement-de-la-partie"&gt;
+&lt;h3&gt;Déroulement de la partie&lt;/h3&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Poser tous les pions sur la case départ.&lt;/li&gt;
+&lt;li&gt;A tour de rôle, lancer un dé et avancer du nombre de cases indiqué. Un des joueurs adverse tire la carte de la couleur où arrive le pion et pose la question.&lt;/li&gt;
+&lt;li&gt;Si la réponse est juste, le joueur rejoue.&lt;/li&gt;
+&lt;li&gt;Si la réponse est fausse, le joueur reste sur sa case et passe son tour.&lt;/li&gt;
+&lt;li&gt;Le joueur qui passe l’arrivée en premier a gagné.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content><category term="Review"></category><category term="ES"></category></entry><entry><title>Sizeline</title><link href="/sizeline.html" rel="alternate"></link><published>2021-08-25T09:54:00+02:00</published><updated>2021-08-25T09:54:00+02:00</updated><author><name>P. Marchand</name></author><id>tag:None,2021-08-25:/sizeline.html</id><summary type="html">&lt;p class="first last"&gt;Se familiariser avec les ordres de grandeur&lt;/p&gt;
+</summary><content type="html">&lt;hr class="docutils" /&gt;
+&lt;div class="section" id="but-du-jeu"&gt;
+&lt;h2&gt;But du jeu&lt;/h2&gt;
+&lt;p&gt;Ne plus avoir de cartes et trouver l’ordre de grandeur des cartes jouées.&lt;/p&gt;
+&lt;div class="section" id="deroulement-de-la-partie"&gt;
+&lt;h3&gt;Déroulement de la partie&lt;/h3&gt;
+&lt;div class="section" id="ere-manche"&gt;
+&lt;h4&gt;1ère manche&lt;/h4&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Distribuer 5 cartes par joueur face « taille » cachée&lt;/li&gt;
+&lt;li&gt;Placer les cartes devant soi&lt;/li&gt;
+&lt;li&gt;Tirer une carte de la pioche et la placer au centre face « taille » visible&lt;/li&gt;
+&lt;li&gt;Les joueurs jouent chacun à leur tour dans le sens des aiguilles d’une montre. Le premier joueur (le plus jeune) doit poser l’une de ses cartes à côté de la carte initiale :&lt;ul&gt;
+&lt;li&gt;S’il estime que l’objet sur sa carte est plus petit que celui sur la carte initiale il pose sa carte à gauche de cette dernière&lt;/li&gt;
+&lt;li&gt;S’il estime que l’objet sur sa carte est plus grand que celui sur la carte initiale il pose sa carte à droite de cette dernière&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Une fois posée le joueur retourne sa carte face « taille » visible afin de vérifier qu’il l’a bien placée :&lt;ul&gt;
+&lt;li&gt;Si la carte est bien placée on la laisse ainsi positionnée.&lt;/li&gt;
+&lt;li&gt;Si la carte est mal placée on la remet dans la pioche et on prend une nouvelle carte&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;C’est alors au joueur suivant de poser une carte. Il a cette fois ci plusieurs possibilités pour poser sa carte :&lt;ul&gt;
+&lt;li&gt;Soit à gauche des deux précédentes&lt;/li&gt;
+&lt;li&gt;Soit à droite des deux précédentes&lt;/li&gt;
+&lt;li&gt;Soit au milieu des deux précédentes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Le jeu se termine quand un des joueurs n’a plus de cartes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="eme-manche"&gt;
+&lt;h4&gt;2ème manche&lt;/h4&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Prendre les cartes qui ont été posées au centre.&lt;/li&gt;
+&lt;li&gt;Placer les cartes « ordre de grandeur » sur la table au centre et dans l’ordre croissant.&lt;/li&gt;
+&lt;li&gt;Placer chaque carte à côté de l’ordre de grandeur qui lui correspond.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content><category term="Review"></category><category term="2nde"></category><category term="1ère"></category><category term="Tle"></category></entry><entry><title>Question loop: La mole</title><link href="/question-loop-la-mole.html" rel="alternate"></link><published>2021-08-25T09:28:00+02:00</published><updated>2021-08-25T09:28:00+02:00</updated><author><name>P. Marchand</name></author><id>tag:None,2021-08-25:/question-loop-la-mole.html</id><summary type="html">&lt;p class="first last"&gt;Jeu de questions-réponses permettant aux élèves de se familiariser avec la notion de mole.&lt;/p&gt;
+</summary><content type="html">&lt;hr class="docutils" /&gt;
+&lt;div class="section" id="regle-du-jeu"&gt;
+&lt;h2&gt;Règle du jeu&lt;/h2&gt;
+&lt;div class="section" id="but-du-jeu"&gt;
+&lt;h3&gt;But du jeu&lt;/h3&gt;
+&lt;p&gt;Se familiariser avec :&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;la mole,&lt;/li&gt;
+&lt;li&gt;la masse molaire,&lt;/li&gt;
+&lt;li&gt;le calcul de la masse correspondant à une quantité de matière d’une entité,&lt;/li&gt;
+&lt;li&gt;le calcul de la quantité de matière d’une entité connaissant sa masse.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;A adapter suivant le niveau de la classe.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="nombre-de-joueurs"&gt;
+&lt;h3&gt;Nombre de joueurs&lt;/h3&gt;
+&lt;p&gt;Tous les élèves de la classe.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="deroulement-du-jeu"&gt;
+&lt;h3&gt;Déroulement du jeu&lt;/h3&gt;
+&lt;div class="image docutils container"&gt;
+&lt;img alt="" src="/images/question_loop_mole.jpg" /&gt;
+&lt;/div&gt;
+&lt;ol class="arabic simple"&gt;
+&lt;li&gt;Découper le tableau par ligne, chaque ligne ayant dans la case de gauche une question et dans celle de droite une réponse qui ne correspond pas à la question.&lt;/li&gt;
+&lt;li&gt;Distribuer une ligne du tableau à chaque élève.&lt;/li&gt;
+&lt;li&gt;Désigner un élève qui lit sa question à toute la classe.&lt;/li&gt;
+&lt;li&gt;L’élève qui pense avoir la réponse à la question lève la main et lit sa réponse. Si c’est juste, il lit alors sa question. Si c’est faux, un autre élève doit proposer une réponse.&lt;/li&gt;
+&lt;li&gt;Le jeu est terminé quand tous les élèves ont lu leur question et leur réponse.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content><category term="Review"></category><category term="2nde"></category><category term="1ère"></category></entry><entry><title>Domino sur la nomenclature en chimie</title><link href="/domino-sur-la-nomenclature-en-chimie.html" rel="alternate"></link><published>2021-08-24T10:00:00+02:00</published><updated>2021-08-24T10:00:00+02:00</updated><author><name>P. Marchand</name></author><id>tag:None,2021-08-24:/domino-sur-la-nomenclature-en-chimie.html</id><summary type="html">&lt;p class="first last"&gt;Jeu de domino pour se familiariser avec les règles de nomenclature en chimie&lt;/p&gt;
+</summary><content type="html">&lt;hr class="docutils" /&gt;
+&lt;div class="section" id="regle-du-jeu"&gt;
+&lt;h2&gt;Règle du jeu&lt;/h2&gt;
+&lt;div class="section" id="but-du-jeu"&gt;
+&lt;h3&gt;But du jeu&lt;/h3&gt;
+&lt;p&gt;Se familiariser avec les règles de nomenclature en chimie.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="nombre-de-joueurs"&gt;
+&lt;h3&gt;Nombre de joueurs&lt;/h3&gt;
+&lt;p&gt;3 ou 4 joueurs&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="deroulement-de-la-partie"&gt;
+&lt;h3&gt;Déroulement de la partie&lt;/h3&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Distribuer 5 dominos à chaque joueur&lt;/li&gt;
+&lt;li&gt;Le joueur le plus jeune pose une carte sur la table.&lt;/li&gt;
+&lt;li&gt;Le joueur situé à sa droite doit poser une carte de façon à ce que le nom de la molécule corresponde à sa formule, ou que la formule corresponde au nom de la molécule. S’il n’a pas la carte correspondante, il pioche une carte et passe son tour.&lt;/li&gt;
+&lt;li&gt;Le jeu est terminé lorsque toutes les cartes ont été posées.&lt;/li&gt;
+&lt;li&gt;Le gagnant est le premier qui n’a plus de cartes.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content><category term="Review"></category><category term="Tle"></category></entry><entry><title>Jeu de 7 familles</title><link href="/jeu-de-7-familles.html" rel="alternate"></link><published>2021-08-24T09:40:00+02:00</published><updated>2021-08-24T09:40:00+02:00</updated><author><name>P. Marchand</name></author><id>tag:None,2021-08-24:/jeu-de-7-familles.html</id><summary type="html">&lt;p class="first last"&gt;Jeu de 7 familles permettant d'apprendre les familles chimiques&lt;/p&gt;
+</summary><content type="html">&lt;hr class="docutils" /&gt;
+&lt;div class="section" id="regle-du-jeu"&gt;
+&lt;h2&gt;Règle du jeu&lt;/h2&gt;
+&lt;div class="section" id="but-du-jeu"&gt;
+&lt;h3&gt;But du jeu&lt;/h3&gt;
+&lt;p&gt;Se familiariser avec les groupes caractéristiques des familles chimiques.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="nombre-de-joueurs"&gt;
+&lt;h3&gt;Nombre de joueurs&lt;/h3&gt;
+&lt;p&gt;3 ou 4 joueurs&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="deroulement-de-la-partie"&gt;
+&lt;h3&gt;Déroulement de la partie&lt;/h3&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Poser toutes les cartes sur la table.&lt;/li&gt;
+&lt;li&gt;Essayer de trouver des critères pour regrouper ces cartes suivant 7 familles.&lt;/li&gt;
+&lt;li&gt;Pour chaque famille, il y a quatre molécules.&lt;/li&gt;
+&lt;li&gt;Lorsque les cartes ont été regroupées en 7 familles, appeler le professeur et lui expliquer les critères choisis pour ce classement.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content><category term="Review"></category><category term="2nde"></category><category term="1ère"></category></entry><entry><title>Chiffres significatifs</title><link href="/chiffres-significatifs.html" rel="alternate"></link><published>2021-08-20T22:56:00+02:00</published><updated>2021-08-20T22:56:00+02:00</updated><author><name>P. Marchand</name></author><id>tag:None,2021-08-20:/chiffres-significatifs.html</id><summary type="html">&lt;p class="first last"&gt;kldhgmkfdhgsùdfhklùsfhsùfkhgsùf dsjqgjdlkhgsmdk kgfkdhgmskdhgks kgshmdkghmskfdhgmsdkf&lt;/p&gt;
+</summary><content type="html">&lt;hr class="docutils" /&gt;
+&lt;div class="section" id="regle-du-jeu"&gt;
+&lt;h2&gt;Règle du jeu&lt;/h2&gt;
+&lt;div class="section" id="but-du-jeu"&gt;
+&lt;h3&gt;But du jeu&lt;/h3&gt;
+&lt;p&gt;Etre à l’aise avec la notion de chiffres significatifs.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="nombre-de-joueurs"&gt;
+&lt;h3&gt;Nombre de joueurs&lt;/h3&gt;
+&lt;p&gt;3 ou 4 (si plus, faire davantage de cartes)&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="deroulement-du-jeu"&gt;
+&lt;h3&gt;Déroulement du jeu&lt;/h3&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Distribuer 6 cartes à chaque joueur, les cartes restantes constituent la pioche.&lt;/li&gt;
+&lt;li&gt;Le joueur le plus jeune commence par poser une carte.&lt;/li&gt;
+&lt;li&gt;Le joueur a sa gauche doit ensuite poser une de ses cartes possédant le même nombre de chiffres significatifs. S’il n’en a pas, il doit piocher une carte et passer son tour. Le jouer suivant doit à son tour poser une carte.&lt;/li&gt;
+&lt;li&gt;La partie est terminée lorsqu’un des joueurs a posé toutes ses cartes.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content><category term="Review"></category><category term="2nde"></category></entry><entry><title>Question loop: Atomes</title><link href="/question-loop-atomes.html" rel="alternate"></link><published>2021-08-20T19:58:00+02:00</published><updated>2021-08-20T19:58:00+02:00</updated><author><name>P. Marchand</name></author><id>tag:None,2021-08-20:/question-loop-atomes.html</id><summary type="html">&lt;p class="first last"&gt;Jeu de questions-réponses permettant aux élèves de se familiariser avecle symbole de l'atome et sa constitution.&lt;/p&gt;
+</summary><content type="html">&lt;hr class="docutils" /&gt;
+&lt;div class="section" id="regle-du-jeu"&gt;
+&lt;h2&gt;Règle du jeu&lt;/h2&gt;
+&lt;div class="section" id="but-du-jeu"&gt;
+&lt;h3&gt;But du jeu&lt;/h3&gt;
+&lt;p&gt;Se familiariser avec :&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;le symbole de l’atome et sa signification.&lt;/li&gt;
+&lt;li&gt;La formation des ions.&lt;/li&gt;
+&lt;li&gt;Les tests caractéristiques des ions&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="nombre-de-joueurs"&gt;
+&lt;h3&gt;Nombre de joueurs&lt;/h3&gt;
+&lt;p&gt;Tous les élèves de la classe.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="deroulement-du-jeu"&gt;
+&lt;h3&gt;Déroulement du jeu&lt;/h3&gt;
+&lt;div class="image docutils container"&gt;
+&lt;img alt="" src="/images/question_loop_atomes_jeu.jpg" /&gt;
+&lt;/div&gt;
+&lt;ol class="arabic simple"&gt;
+&lt;li&gt;Découper le tableau par ligne, chaque ligne ayant dans la case de gauche une question et dans celle de droite une réponse qui ne correspond pas à la question.&lt;/li&gt;
+&lt;li&gt;Distribuer une ligne du tableau à chaque élève.&lt;/li&gt;
+&lt;li&gt;Désigner un élève qui lit sa question à toute la classe.&lt;/li&gt;
+&lt;li&gt;L’élève qui pense avoir la réponse à la question lève la main et lit sa réponse. Si c’est juste, il lit alors sa question. Si c’est faux, un autre élève doit proposer une réponse.&lt;/li&gt;
+&lt;li&gt;Le jeu est terminé quand tous les élèves ont lu leur question et leur réponse.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content><category term="Review"></category><category term="2nde"></category><category term="1ère"></category></entry><entry><title>Example elements for this theme</title><link href="/modele.html" rel="alternate"></link><published>2016-12-03T10:20:00+01:00</published><updated>2016-12-03T10:20:00+01:00</updated><author><name>A.N. Other</name></author><id>tag:None,2016-12-03:/modele.html</id><summary type="html">&lt;p class="first last"&gt;This article contains an example of all the elements in a page for this theme&lt;/p&gt;
+</summary><content type="html">&lt;div class="row section" id="sample-content"&gt;
+&lt;h2&gt;Sample Content&lt;/h2&gt;
+&lt;p&gt;Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut
+odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing
+adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a
+non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing
+arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing
+eget accumsan ac nunc adipiscing adipiscing lorem ipsum dolor sit amet nullam
+veroeros adipiscing.&lt;/p&gt;
+&lt;div class="col-6 col-12-small section" id="sem-turpis-amet-semper"&gt;
+&lt;h3&gt;Sem turpis amet semper&lt;/h3&gt;
+&lt;p&gt;Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor
+sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet.
+Volutpat commodo eu sed ante lacinia. Sapien a lorem in integer ornare praesent
+commodo adipiscing arcu in massa commodo lorem accumsan at odio massa ac ac.
+Semper adipiscing varius montes viverra nibh in adipiscing blandit tempus
+accumsan.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="col-6 col-12-small section" id="magna-odio-tempus-commodo"&gt;
+&lt;h3&gt;Magna odio tempus commodo&lt;/h3&gt;
+&lt;p&gt;In arcu accumsan arcu adipiscing accumsan orci ac. Felis id enim aliquet.
+Accumsan ac integer lobortis commodo ornare aliquet accumsan erat tempus amet
+porttitor. Ante commodo blandit adipiscing integer semper orci eget. Faucibus
+commodo adipiscing mi eu nullam accumsan morbi arcu ornare odio mi adipiscing
+nascetur lacus ac interdum morbi accumsan vis mi accumsan.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="col-4 col-12-medium section" id="interdum-sapien-gravida"&gt;
+&lt;h3&gt;Interdum sapien gravida&lt;/h3&gt;
+&lt;p&gt;Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor
+sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet.
+Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh
+in adipiscing blandit.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="col-4 col-12-medium section" id="faucibus-consequat-lorem"&gt;
+&lt;h3&gt;Faucibus consequat lorem&lt;/h3&gt;
+&lt;p&gt;Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor
+sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet.
+Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh
+in adipiscing blandit.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="col-4 col-12-medium section" id="accumsan-montes-viverra"&gt;
+&lt;h3&gt;Accumsan montes viverra&lt;/h3&gt;
+&lt;p&gt;Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor
+sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet.
+Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh
+in adipiscing blandit.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr class="docutils" /&gt;
+&lt;div class="row section" id="id1"&gt;
+&lt;h2&gt;Elements&lt;/h2&gt;
+&lt;p&gt;Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut
+odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing
+adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a
+non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing
+arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing
+eget accumsan ac nunc adipiscing adipiscing lorem ipsum dolor sit amet nullam
+veroeros adipiscing.&lt;/p&gt;
+&lt;div class="col-6 col-12-small section" id="textual"&gt;
+&lt;h3&gt;Textual&lt;/h3&gt;
+&lt;div class="section" id="text"&gt;
+&lt;h4&gt;Text&lt;/h4&gt;
+&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; and this is &lt;strong&gt;strong&lt;/strong&gt;. This is &lt;em&gt;italic&lt;/em&gt; and this is
+&lt;em&gt;emphasized&lt;/em&gt;. This is &lt;sup&gt;superscript&lt;/sup&gt; text and this is
+&lt;sub&gt;subscript&lt;/sub&gt; text. This is code &lt;code class="highlight rust"&gt;&lt;span class="k"&gt;for&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="k"&gt;in&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="o"&gt;..&lt;/span&gt;&lt;span class="mi"&gt;3&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;{&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="fm"&gt;println!&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;}&lt;/span&gt;&lt;/code&gt;.
+This is &lt;span class="underline"&gt;underlined&lt;/span&gt;, and finally this is &lt;a class="reference external" href="#"&gt;a link&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="heading-level-4"&gt;
+&lt;h4&gt;Heading level 4&lt;/h4&gt;
+&lt;p&gt;Dolor etiam magna etiam.&lt;/p&gt;
+&lt;div class="section" id="heading-level-5"&gt;
+&lt;h5&gt;Heading level 5&lt;/h5&gt;
+&lt;p&gt;Dolor etiam magna etiam.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr class="docutils" /&gt;
+&lt;div class="row section" id="lists"&gt;
+&lt;h4&gt;Lists&lt;/h4&gt;
+&lt;p&gt;Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor
+sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet.
+Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh
+in adipiscing blandit tempus accumsan.&lt;/p&gt;
+&lt;div class="col-6 col-12-small section" id="unordered"&gt;
+&lt;h5&gt;Unordered&lt;/h5&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Dolor etiam magna etiam.&lt;/li&gt;
+&lt;li&gt;Sagittis lorem eleifend.&lt;/li&gt;
+&lt;li&gt;Felis dolore viverra.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="col-6 col-12-small section" id="ordered"&gt;
+&lt;h5&gt;Ordered&lt;/h5&gt;
+&lt;ol class="arabic simple"&gt;
+&lt;li&gt;Dolor etiam magna etiam.&lt;/li&gt;
+&lt;li&gt;Etiam vel lorem sed viverra.&lt;/li&gt;
+&lt;li&gt;Felis dolore viverra.&lt;/li&gt;
+&lt;li&gt;Dolor etiam magna etiam.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="block-quote"&gt;
+&lt;h4&gt;Block quote&lt;/h4&gt;
+&lt;blockquote&gt;
+Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum.
+Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu
+faucibus. Integer ac pellentesque praesent. Lorem ipsum dolor. Lorem ipsum
+dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit
+adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div class="section" id="table"&gt;
+&lt;h4&gt;Table&lt;/h4&gt;
+&lt;div class="section" id="default"&gt;
+&lt;h5&gt;Default&lt;/h5&gt;
+&lt;table border="1" class="docutils"&gt;
+&lt;colgroup&gt;
+&lt;col width="10%" /&gt;
+&lt;col width="75%" /&gt;
+&lt;col width="15%" /&gt;
+&lt;/colgroup&gt;
+&lt;thead valign="bottom"&gt;
+&lt;tr&gt;&lt;th class="head"&gt;Name&lt;/th&gt;
+&lt;th class="head"&gt;Description&lt;/th&gt;
+&lt;th class="head"&gt;Price&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody valign="top"&gt;
+&lt;tr&gt;&lt;td&gt;Item1&lt;/td&gt;
+&lt;td&gt;Ante turpis integer aliquet porttitor.&lt;/td&gt;
+&lt;td&gt;29.99&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Item2&lt;/td&gt;
+&lt;td&gt;Vis ac commodo adipiscing arcu aliquet.&lt;/td&gt;
+&lt;td&gt;19.99&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Item3&lt;/td&gt;
+&lt;td&gt;Morbi faucibus arcu accumsan lorem.&lt;/td&gt;
+&lt;td&gt;29.99&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Item4&lt;/td&gt;
+&lt;td&gt;Vitae integer tempus condimentum.&lt;/td&gt;
+&lt;td&gt;19.99&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Item5&lt;/td&gt;
+&lt;td&gt;Ante turpis integer aliquet porttitor.&lt;/td&gt;
+&lt;td&gt;29.99&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;div class="section" id="alternative"&gt;
+&lt;h5&gt;Alternative&lt;/h5&gt;
+&lt;table border="1" class="alt docutils"&gt;
+&lt;colgroup&gt;
+&lt;col width="10%" /&gt;
+&lt;col width="75%" /&gt;
+&lt;col width="15%" /&gt;
+&lt;/colgroup&gt;
+&lt;thead valign="bottom"&gt;
+&lt;tr&gt;&lt;th class="head"&gt;Name&lt;/th&gt;
+&lt;th class="head"&gt;Description&lt;/th&gt;
+&lt;th class="head"&gt;Price&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody valign="top"&gt;
+&lt;tr&gt;&lt;td&gt;Item1&lt;/td&gt;
+&lt;td&gt;Ante turpis integer aliquet porttitor.&lt;/td&gt;
+&lt;td&gt;29.99&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Item2&lt;/td&gt;
+&lt;td&gt;Vis ac commodo adipiscing arcu aliquet.&lt;/td&gt;
+&lt;td&gt;19.99&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Item3&lt;/td&gt;
+&lt;td&gt;Morbi faucibus arcu accumsan lorem.&lt;/td&gt;
+&lt;td&gt;29.99&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Item4&lt;/td&gt;
+&lt;td&gt;Vitae integer tempus condimentum.&lt;/td&gt;
+&lt;td&gt;19.99&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Item5&lt;/td&gt;
+&lt;td&gt;Ante turpis integer aliquet porttitor.&lt;/td&gt;
+&lt;td&gt;29.99&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="preformatted"&gt;
+&lt;h4&gt;Preformatted&lt;/h4&gt;
+&lt;pre class="code python highlight literal-block"&gt;
+&lt;span class="ln"&gt;1 &lt;/span&gt;&lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;fun&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;msg&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+&lt;span class="ln"&gt;2 &lt;/span&gt;    &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;msg&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;span class="ln"&gt;3 &lt;/span&gt;
+&lt;span class="ln"&gt;4 &lt;/span&gt;&lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="vm"&gt;__name__&lt;/span&gt; &lt;span class="o"&gt;==&lt;/span&gt; &lt;span class="s1"&gt;'__main__'&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+&lt;span class="ln"&gt;5 &lt;/span&gt;  &lt;span class="n"&gt;fun&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;'Hello world!'&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="col-6 col-12-small section" id="graphical"&gt;
+&lt;h3&gt;Graphical&lt;/h3&gt;
+&lt;div class="section" id="images"&gt;
+&lt;h4&gt;Images&lt;/h4&gt;
+&lt;!-- SINGLE PICTURE --&gt;
+&lt;div class="image fit docutils container"&gt;
+&lt;img alt="" src="/images/main.jpg" /&gt;
+&lt;/div&gt;
+&lt;!-- GRID --&gt;
+&lt;div class="box alt docutils container"&gt;
+&lt;div class="row gtr-50 gtr-uniform docutils container"&gt;
+&lt;div class="col-4 docutils container"&gt;
+&lt;div class="image fit docutils container"&gt;
+&lt;img alt="" src="/images/pic06.jpg" /&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="col-4 docutils container"&gt;
+&lt;div class="image fit docutils container"&gt;
+&lt;img alt="" src="/images/pic05.jpg" /&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="col-4 docutils container"&gt;
+&lt;div class="image fit docutils container"&gt;
+&lt;img alt="" src="/images/pic04.jpg" /&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="col-4 docutils container"&gt;
+&lt;div class="image fit docutils container"&gt;
+&lt;img alt="" src="/images/pic04.jpg" /&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="col-4 docutils container"&gt;
+&lt;div class="image fit docutils container"&gt;
+&lt;img alt="" src="/images/pic06.jpg" /&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="col-4 docutils container"&gt;
+&lt;div class="image fit docutils container"&gt;
+&lt;img alt="" src="/images/pic05.jpg" /&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="col-4 docutils container"&gt;
+&lt;div class="image fit docutils container"&gt;
+&lt;img alt="" src="/images/pic05.jpg" /&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="col-4 docutils container"&gt;
+&lt;div class="image fit docutils container"&gt;
+&lt;img alt="" src="/images/pic04.jpg" /&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="col-4 docutils container"&gt;
+&lt;div class="image fit docutils container"&gt;
+&lt;img alt="" src="/images/pic06.jpg" /&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="left-right"&gt;
+&lt;h4&gt;Left &amp;amp; Right&lt;/h4&gt;
+&lt;div class="image left docutils container"&gt;
+&lt;img alt="" src="/images/pic06.jpg" /&gt;
+&lt;/div&gt;
+&lt;p&gt;Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis
+eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum.
+Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu
+faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget.
+tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod.
+Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu
+felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac
+pellentesque praesent.&lt;/p&gt;
+&lt;div class="image right docutils container"&gt;
+&lt;img alt="" src="/images/pic05.jpg" /&gt;
+&lt;/div&gt;
+&lt;p&gt;Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis
+eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum.
+Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu
+faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget.
+tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod.
+Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu
+felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac
+pellentesque praesent.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="math"&gt;
+&lt;h4&gt;Math&lt;/h4&gt;
+&lt;div class="math"&gt;
+\begin{equation*}
+i \hbar \frac{\partial}{\partial t}\Psi(t) = \hat{H}(t) \Psi(t)
+\end{equation*}
+&lt;/div&gt;
+&lt;div class="math"&gt;
+\begin{equation*}
+\boldsymbol{H} = \begin{bmatrix}
+  \boldsymbol{H}^{\alpha \alpha} &amp;amp; \boldsymbol{H}^{\alpha \beta} \\
+  \boldsymbol{H}^{\beta \alpha} &amp;amp; \boldsymbol{H}^{\beta \beta}
+  \end{bmatrix}
+\end{equation*}
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="row section" id="box"&gt;
+&lt;h3&gt;Box&lt;/h3&gt;
+&lt;p&gt;Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis
+eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum.
+Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu
+faucibus.&lt;/p&gt;
+&lt;div class="col-4 col-12-medium section" id="colored-bad"&gt;
+&lt;h4&gt;Colored Bad&lt;/h4&gt;
+&lt;div class="admonition warning"&gt;
+&lt;p class="first admonition-title"&gt;Avis&lt;/p&gt;
+&lt;p class="last"&gt;Felis sagittis eget tempus primis in faucibus vestibulum. Blandit adipiscing
+eu felis iaculis volutpat ac adipiscing accumsan eu faucibus.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="admonition danger"&gt;
+&lt;p class="first admonition-title"&gt;!DANGER!&lt;/p&gt;
+&lt;p class="last"&gt;Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus
+euismod. Magna sed etiam ante ipsum primis in faucibus vestibulum.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="col-4 col-12-medium section" id="colored-good"&gt;
+&lt;h4&gt;Colored Good&lt;/h4&gt;
+&lt;div class="admonition tip"&gt;
+&lt;p class="first admonition-title"&gt;Astuce&lt;/p&gt;
+&lt;p class="last"&gt;Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu
+felis iaculis volutpat ac adipiscing accumsan eu faucibus.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="admonition important"&gt;
+&lt;p class="first admonition-title"&gt;Important&lt;/p&gt;
+&lt;p class="last"&gt;Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis
+eget. tempus euismod.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="admonition tip"&gt;
+&lt;p class="first admonition-title"&gt;Custom title with coloring&lt;/p&gt;
+&lt;p class="last"&gt;Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu
+felis iaculis volutpat ac adipiscing accumsan eu faucibus.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="col-4 col-12-medium section" id="uncolored"&gt;
+&lt;h4&gt;Uncolored&lt;/h4&gt;
+&lt;div class="admonition note"&gt;
+&lt;p class="first admonition-title"&gt;Note&lt;/p&gt;
+&lt;p class="last"&gt;Magna sed etiam ante ipsum primis in faucibus vestibulum.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="admonition admonition-custom-block-title"&gt;
+&lt;p class="first admonition-title"&gt;Custom block title&lt;/p&gt;
+&lt;p class="last"&gt;Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu
+faucibus.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;script type='text/javascript'&gt;if (!document.getElementById('mathjaxscript_pelican_#%@#$@#')) {
+    var align = "center",
+        indent = "0em",
+        linebreak = "false";
+
+    if (false) {
+        align = (screen.width &lt; 768) ? "left" : align;
+        indent = (screen.width &lt; 768) ? "0em" : indent;
+        linebreak = (screen.width &lt; 768) ? 'true' : linebreak;
+    }
+
+    var mathjaxscript = document.createElement('script');
+    mathjaxscript.id = 'mathjaxscript_pelican_#%@#$@#';
+    mathjaxscript.type = 'text/javascript';
+    mathjaxscript.src = 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.3/latest.js?config=TeX-AMS-MML_HTMLorMML';
+
+    var configscript = document.createElement('script');
+    configscript.type = 'text/x-mathjax-config';
+    configscript[(window.opera ? "innerHTML" : "text")] =
+        "MathJax.Hub.Config({" +
+        "    config: ['MMLorHTML.js']," +
+        "    TeX: { extensions: ['AMSmath.js','AMSsymbols.js','noErrors.js','noUndefined.js'], equationNumbers: { autoNumber: 'none' } }," +
+        "    jax: ['input/TeX','input/MathML','output/HTML-CSS']," +
+        "    extensions: ['tex2jax.js','mml2jax.js','MathMenu.js','MathZoom.js']," +
+        "    displayAlign: '"+ align +"'," +
+        "    displayIndent: '"+ indent +"'," +
+        "    showMathMenu: true," +
+        "    messageStyle: 'normal'," +
+        "    tex2jax: { " +
+        "        inlineMath: [ ['\\\\(','\\\\)'] ], " +
+        "        displayMath: [ ['$$','$$'] ]," +
+        "        processEscapes: true," +
+        "        preview: 'TeX'," +
+        "    }, " +
+        "    'HTML-CSS': { " +
+        "        availableFonts: ['STIX', 'TeX']," +
+        "        preferredFont: 'STIX'," +
+        "        styles: { '.MathJax_Display, .MathJax .mo, .MathJax .mi, .MathJax .mn': {color: 'inherit ! important'} }," +
+        "        linebreaks: { automatic: "+ linebreak +", width: '90% container' }," +
+        "    }, " +
+        "}); " +
+        "if ('default' !== 'default') {" +
+            "MathJax.Hub.Register.StartupHook('HTML-CSS Jax Ready',function () {" +
+                "var VARIANT = MathJax.OutputJax['HTML-CSS'].FONTDATA.VARIANT;" +
+                "VARIANT['normal'].fonts.unshift('MathJax_default');" +
+                "VARIANT['bold'].fonts.unshift('MathJax_default-bold');" +
+                "VARIANT['italic'].fonts.unshift('MathJax_default-italic');" +
+                "VARIANT['-tex-mathit'].fonts.unshift('MathJax_default-italic');" +
+            "});" +
+            "MathJax.Hub.Register.StartupHook('SVG Jax Ready',function () {" +
+                "var VARIANT = MathJax.OutputJax.SVG.FONTDATA.VARIANT;" +
+                "VARIANT['normal'].fonts.unshift('MathJax_default');" +
+                "VARIANT['bold'].fonts.unshift('MathJax_default-bold');" +
+                "VARIANT['italic'].fonts.unshift('MathJax_default-italic');" +
+                "VARIANT['-tex-mathit'].fonts.unshift('MathJax_default-italic');" +
+            "});" +
+        "}";
+
+    (document.body || document.getElementsByTagName('head')[0]).appendChild(configscript);
+    (document.body || document.getElementsByTagName('head')[0]).appendChild(mathjaxscript);
+}
+&lt;/script&gt;</content><category term="Information"></category></entry></feed>

@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Science en jeux - John Doe</title><link href="/" rel="alternate"></link><link href="/feeds/john-doe.atom.xml" rel="self"></link><id>/</id><updated>2016-12-03T10:20:00+01:00</updated><subtitle>Apprendre en jouant</subtitle><subtitle>Apprendre en jouant</subtitle><entry><title>Example elements for this theme</title><link href="/modele.html" rel="alternate"></link><published>2016-12-03T10:20:00+01:00</published><updated>2016-12-03T10:20:00+01:00</updated><author><name>A.N. Other</name></author><id>tag:None,2016-12-03:/modele.html</id><summary type="html">&lt;p class="first last"&gt;This article contains an example of all the elements in a page for this theme&lt;/p&gt;
+</summary><content type="html">&lt;div class="row section" id="sample-content"&gt;
+&lt;h2&gt;Sample Content&lt;/h2&gt;
+&lt;p&gt;Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut
+odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing
+adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a
+non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing
+arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing
+eget accumsan ac nunc adipiscing adipiscing lorem ipsum dolor sit amet nullam
+veroeros adipiscing.&lt;/p&gt;
+&lt;div class="col-6 col-12-small section" id="sem-turpis-amet-semper"&gt;
+&lt;h3&gt;Sem turpis amet semper&lt;/h3&gt;
+&lt;p&gt;Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor
+sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet.
+Volutpat commodo eu sed ante lacinia. Sapien a lorem in integer ornare praesent
+commodo adipiscing arcu in massa commodo lorem accumsan at odio massa ac ac.
+Semper adipiscing varius montes viverra nibh in adipiscing blandit tempus
+accumsan.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="col-6 col-12-small section" id="magna-odio-tempus-commodo"&gt;
+&lt;h3&gt;Magna odio tempus commodo&lt;/h3&gt;
+&lt;p&gt;In arcu accumsan arcu adipiscing accumsan orci ac. Felis id enim aliquet.
+Accumsan ac integer lobortis commodo ornare aliquet accumsan erat tempus amet
+porttitor. Ante commodo blandit adipiscing integer semper orci eget. Faucibus
+commodo adipiscing mi eu nullam accumsan morbi arcu ornare odio mi adipiscing
+nascetur lacus ac interdum morbi accumsan vis mi accumsan.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="col-4 col-12-medium section" id="interdum-sapien-gravida"&gt;
+&lt;h3&gt;Interdum sapien gravida&lt;/h3&gt;
+&lt;p&gt;Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor
+sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet.
+Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh
+in adipiscing blandit.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="col-4 col-12-medium section" id="faucibus-consequat-lorem"&gt;
+&lt;h3&gt;Faucibus consequat lorem&lt;/h3&gt;
+&lt;p&gt;Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor
+sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet.
+Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh
+in adipiscing blandit.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="col-4 col-12-medium section" id="accumsan-montes-viverra"&gt;
+&lt;h3&gt;Accumsan montes viverra&lt;/h3&gt;
+&lt;p&gt;Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor
+sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet.
+Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh
+in adipiscing blandit.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr class="docutils" /&gt;
+&lt;div class="row section" id="id1"&gt;
+&lt;h2&gt;Elements&lt;/h2&gt;
+&lt;p&gt;Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut
+odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing
+adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a
+non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing
+arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing
+eget accumsan ac nunc adipiscing adipiscing lorem ipsum dolor sit amet nullam
+veroeros adipiscing.&lt;/p&gt;
+&lt;div class="col-6 col-12-small section" id="textual"&gt;
+&lt;h3&gt;Textual&lt;/h3&gt;
+&lt;div class="section" id="text"&gt;
+&lt;h4&gt;Text&lt;/h4&gt;
+&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; and this is &lt;strong&gt;strong&lt;/strong&gt;. This is &lt;em&gt;italic&lt;/em&gt; and this is
+&lt;em&gt;emphasized&lt;/em&gt;. This is &lt;sup&gt;superscript&lt;/sup&gt; text and this is
+&lt;sub&gt;subscript&lt;/sub&gt; text. This is code &lt;code class="highlight rust"&gt;&lt;span class="k"&gt;for&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="k"&gt;in&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="o"&gt;..&lt;/span&gt;&lt;span class="mi"&gt;3&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;{&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="fm"&gt;println!&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;}&lt;/span&gt;&lt;/code&gt;.
+This is &lt;span class="underline"&gt;underlined&lt;/span&gt;, and finally this is &lt;a class="reference external" href="#"&gt;a link&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="heading-level-4"&gt;
+&lt;h4&gt;Heading level 4&lt;/h4&gt;
+&lt;p&gt;Dolor etiam magna etiam.&lt;/p&gt;
+&lt;div class="section" id="heading-level-5"&gt;
+&lt;h5&gt;Heading level 5&lt;/h5&gt;
+&lt;p&gt;Dolor etiam magna etiam.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr class="docutils" /&gt;
+&lt;div class="row section" id="lists"&gt;
+&lt;h4&gt;Lists&lt;/h4&gt;
+&lt;p&gt;Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor
+sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet.
+Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh
+in adipiscing blandit tempus accumsan.&lt;/p&gt;
+&lt;div class="col-6 col-12-small section" id="unordered"&gt;
+&lt;h5&gt;Unordered&lt;/h5&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Dolor etiam magna etiam.&lt;/li&gt;
+&lt;li&gt;Sagittis lorem eleifend.&lt;/li&gt;
+&lt;li&gt;Felis dolore viverra.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="col-6 col-12-small section" id="ordered"&gt;
+&lt;h5&gt;Ordered&lt;/h5&gt;
+&lt;ol class="arabic simple"&gt;
+&lt;li&gt;Dolor etiam magna etiam.&lt;/li&gt;
+&lt;li&gt;Etiam vel lorem sed viverra.&lt;/li&gt;
+&lt;li&gt;Felis dolore viverra.&lt;/li&gt;
+&lt;li&gt;Dolor etiam magna etiam.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="block-quote"&gt;
+&lt;h4&gt;Block quote&lt;/h4&gt;
+&lt;blockquote&gt;
+Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum.
+Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu
+faucibus. Integer ac pellentesque praesent. Lorem ipsum dolor. Lorem ipsum
+dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit
+adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus.&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div class="section" id="table"&gt;
+&lt;h4&gt;Table&lt;/h4&gt;
+&lt;div class="section" id="default"&gt;
+&lt;h5&gt;Default&lt;/h5&gt;
+&lt;table border="1" class="docutils"&gt;
+&lt;colgroup&gt;
+&lt;col width="10%" /&gt;
+&lt;col width="75%" /&gt;
+&lt;col width="15%" /&gt;
+&lt;/colgroup&gt;
+&lt;thead valign="bottom"&gt;
+&lt;tr&gt;&lt;th class="head"&gt;Name&lt;/th&gt;
+&lt;th class="head"&gt;Description&lt;/th&gt;
+&lt;th class="head"&gt;Price&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody valign="top"&gt;
+&lt;tr&gt;&lt;td&gt;Item1&lt;/td&gt;
+&lt;td&gt;Ante turpis integer aliquet porttitor.&lt;/td&gt;
+&lt;td&gt;29.99&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Item2&lt;/td&gt;
+&lt;td&gt;Vis ac commodo adipiscing arcu aliquet.&lt;/td&gt;
+&lt;td&gt;19.99&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Item3&lt;/td&gt;
+&lt;td&gt;Morbi faucibus arcu accumsan lorem.&lt;/td&gt;
+&lt;td&gt;29.99&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Item4&lt;/td&gt;
+&lt;td&gt;Vitae integer tempus condimentum.&lt;/td&gt;
+&lt;td&gt;19.99&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Item5&lt;/td&gt;
+&lt;td&gt;Ante turpis integer aliquet porttitor.&lt;/td&gt;
+&lt;td&gt;29.99&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;div class="section" id="alternative"&gt;
+&lt;h5&gt;Alternative&lt;/h5&gt;
+&lt;table border="1" class="alt docutils"&gt;
+&lt;colgroup&gt;
+&lt;col width="10%" /&gt;
+&lt;col width="75%" /&gt;
+&lt;col width="15%" /&gt;
+&lt;/colgroup&gt;
+&lt;thead valign="bottom"&gt;
+&lt;tr&gt;&lt;th class="head"&gt;Name&lt;/th&gt;
+&lt;th class="head"&gt;Description&lt;/th&gt;
+&lt;th class="head"&gt;Price&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody valign="top"&gt;
+&lt;tr&gt;&lt;td&gt;Item1&lt;/td&gt;
+&lt;td&gt;Ante turpis integer aliquet porttitor.&lt;/td&gt;
+&lt;td&gt;29.99&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Item2&lt;/td&gt;
+&lt;td&gt;Vis ac commodo adipiscing arcu aliquet.&lt;/td&gt;
+&lt;td&gt;19.99&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Item3&lt;/td&gt;
+&lt;td&gt;Morbi faucibus arcu accumsan lorem.&lt;/td&gt;
+&lt;td&gt;29.99&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Item4&lt;/td&gt;
+&lt;td&gt;Vitae integer tempus condimentum.&lt;/td&gt;
+&lt;td&gt;19.99&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Item5&lt;/td&gt;
+&lt;td&gt;Ante turpis integer aliquet porttitor.&lt;/td&gt;
+&lt;td&gt;29.99&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="preformatted"&gt;
+&lt;h4&gt;Preformatted&lt;/h4&gt;
+&lt;pre class="code python highlight literal-block"&gt;
+&lt;span class="ln"&gt;1 &lt;/span&gt;&lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;fun&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;msg&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+&lt;span class="ln"&gt;2 &lt;/span&gt;    &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;msg&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;span class="ln"&gt;3 &lt;/span&gt;
+&lt;span class="ln"&gt;4 &lt;/span&gt;&lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="vm"&gt;__name__&lt;/span&gt; &lt;span class="o"&gt;==&lt;/span&gt; &lt;span class="s1"&gt;'__main__'&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+&lt;span class="ln"&gt;5 &lt;/span&gt;  &lt;span class="n"&gt;fun&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;'Hello world!'&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="col-6 col-12-small section" id="graphical"&gt;
+&lt;h3&gt;Graphical&lt;/h3&gt;
+&lt;div class="section" id="images"&gt;
+&lt;h4&gt;Images&lt;/h4&gt;
+&lt;!-- SINGLE PICTURE --&gt;
+&lt;div class="image fit docutils container"&gt;
+&lt;img alt="" src="/images/main.jpg" /&gt;
+&lt;/div&gt;
+&lt;!-- GRID --&gt;
+&lt;div class="box alt docutils container"&gt;
+&lt;div class="row gtr-50 gtr-uniform docutils container"&gt;
+&lt;div class="col-4 docutils container"&gt;
+&lt;div class="image fit docutils container"&gt;
+&lt;img alt="" src="/images/pic06.jpg" /&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="col-4 docutils container"&gt;
+&lt;div class="image fit docutils container"&gt;
+&lt;img alt="" src="/images/pic05.jpg" /&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="col-4 docutils container"&gt;
+&lt;div class="image fit docutils container"&gt;
+&lt;img alt="" src="/images/pic04.jpg" /&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="col-4 docutils container"&gt;
+&lt;div class="image fit docutils container"&gt;
+&lt;img alt="" src="/images/pic04.jpg" /&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="col-4 docutils container"&gt;
+&lt;div class="image fit docutils container"&gt;
+&lt;img alt="" src="/images/pic06.jpg" /&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="col-4 docutils container"&gt;
+&lt;div class="image fit docutils container"&gt;
+&lt;img alt="" src="/images/pic05.jpg" /&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="col-4 docutils container"&gt;
+&lt;div class="image fit docutils container"&gt;
+&lt;img alt="" src="/images/pic05.jpg" /&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="col-4 docutils container"&gt;
+&lt;div class="image fit docutils container"&gt;
+&lt;img alt="" src="/images/pic04.jpg" /&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="col-4 docutils container"&gt;
+&lt;div class="image fit docutils container"&gt;
+&lt;img alt="" src="/images/pic06.jpg" /&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="left-right"&gt;
+&lt;h4&gt;Left &amp;amp; Right&lt;/h4&gt;
+&lt;div class="image left docutils container"&gt;
+&lt;img alt="" src="/images/pic06.jpg" /&gt;
+&lt;/div&gt;
+&lt;p&gt;Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis
+eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum.
+Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu
+faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget.
+tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod.
+Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu
+felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac
+pellentesque praesent.&lt;/p&gt;
+&lt;div class="image right docutils container"&gt;
+&lt;img alt="" src="/images/pic05.jpg" /&gt;
+&lt;/div&gt;
+&lt;p&gt;Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis
+eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum.
+Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu
+faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget.
+tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod.
+Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu
+felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac
+pellentesque praesent.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="math"&gt;
+&lt;h4&gt;Math&lt;/h4&gt;
+&lt;div class="math"&gt;
+\begin{equation*}
+i \hbar \frac{\partial}{\partial t}\Psi(t) = \hat{H}(t) \Psi(t)
+\end{equation*}
+&lt;/div&gt;
+&lt;div class="math"&gt;
+\begin{equation*}
+\boldsymbol{H} = \begin{bmatrix}
+  \boldsymbol{H}^{\alpha \alpha} &amp;amp; \boldsymbol{H}^{\alpha \beta} \\
+  \boldsymbol{H}^{\beta \alpha} &amp;amp; \boldsymbol{H}^{\beta \beta}
+  \end{bmatrix}
+\end{equation*}
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="row section" id="box"&gt;
+&lt;h3&gt;Box&lt;/h3&gt;
+&lt;p&gt;Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis
+eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum.
+Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu
+faucibus.&lt;/p&gt;
+&lt;div class="col-4 col-12-medium section" id="colored-bad"&gt;
+&lt;h4&gt;Colored Bad&lt;/h4&gt;
+&lt;div class="admonition warning"&gt;
+&lt;p class="first admonition-title"&gt;Avis&lt;/p&gt;
+&lt;p class="last"&gt;Felis sagittis eget tempus primis in faucibus vestibulum. Blandit adipiscing
+eu felis iaculis volutpat ac adipiscing accumsan eu faucibus.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="admonition danger"&gt;
+&lt;p class="first admonition-title"&gt;!DANGER!&lt;/p&gt;
+&lt;p class="last"&gt;Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus
+euismod. Magna sed etiam ante ipsum primis in faucibus vestibulum.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="col-4 col-12-medium section" id="colored-good"&gt;
+&lt;h4&gt;Colored Good&lt;/h4&gt;
+&lt;div class="admonition tip"&gt;
+&lt;p class="first admonition-title"&gt;Astuce&lt;/p&gt;
+&lt;p class="last"&gt;Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu
+felis iaculis volutpat ac adipiscing accumsan eu faucibus.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="admonition important"&gt;
+&lt;p class="first admonition-title"&gt;Important&lt;/p&gt;
+&lt;p class="last"&gt;Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis
+eget. tempus euismod.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="admonition tip"&gt;
+&lt;p class="first admonition-title"&gt;Custom title with coloring&lt;/p&gt;
+&lt;p class="last"&gt;Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu
+felis iaculis volutpat ac adipiscing accumsan eu faucibus.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="col-4 col-12-medium section" id="uncolored"&gt;
+&lt;h4&gt;Uncolored&lt;/h4&gt;
+&lt;div class="admonition note"&gt;
+&lt;p class="first admonition-title"&gt;Note&lt;/p&gt;
+&lt;p class="last"&gt;Magna sed etiam ante ipsum primis in faucibus vestibulum.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="admonition admonition-custom-block-title"&gt;
+&lt;p class="first admonition-title"&gt;Custom block title&lt;/p&gt;
+&lt;p class="last"&gt;Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu
+faucibus.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;script type='text/javascript'&gt;if (!document.getElementById('mathjaxscript_pelican_#%@#$@#')) {
+    var align = "center",
+        indent = "0em",
+        linebreak = "false";
+
+    if (false) {
+        align = (screen.width &lt; 768) ? "left" : align;
+        indent = (screen.width &lt; 768) ? "0em" : indent;
+        linebreak = (screen.width &lt; 768) ? 'true' : linebreak;
+    }
+
+    var mathjaxscript = document.createElement('script');
+    mathjaxscript.id = 'mathjaxscript_pelican_#%@#$@#';
+    mathjaxscript.type = 'text/javascript';
+    mathjaxscript.src = 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.3/latest.js?config=TeX-AMS-MML_HTMLorMML';
+
+    var configscript = document.createElement('script');
+    configscript.type = 'text/x-mathjax-config';
+    configscript[(window.opera ? "innerHTML" : "text")] =
+        "MathJax.Hub.Config({" +
+        "    config: ['MMLorHTML.js']," +
+        "    TeX: { extensions: ['AMSmath.js','AMSsymbols.js','noErrors.js','noUndefined.js'], equationNumbers: { autoNumber: 'none' } }," +
+        "    jax: ['input/TeX','input/MathML','output/HTML-CSS']," +
+        "    extensions: ['tex2jax.js','mml2jax.js','MathMenu.js','MathZoom.js']," +
+        "    displayAlign: '"+ align +"'," +
+        "    displayIndent: '"+ indent +"'," +
+        "    showMathMenu: true," +
+        "    messageStyle: 'normal'," +
+        "    tex2jax: { " +
+        "        inlineMath: [ ['\\\\(','\\\\)'] ], " +
+        "        displayMath: [ ['$$','$$'] ]," +
+        "        processEscapes: true," +
+        "        preview: 'TeX'," +
+        "    }, " +
+        "    'HTML-CSS': { " +
+        "        availableFonts: ['STIX', 'TeX']," +
+        "        preferredFont: 'STIX'," +
+        "        styles: { '.MathJax_Display, .MathJax .mo, .MathJax .mi, .MathJax .mn': {color: 'inherit ! important'} }," +
+        "        linebreaks: { automatic: "+ linebreak +", width: '90% container' }," +
+        "    }, " +
+        "}); " +
+        "if ('default' !== 'default') {" +
+            "MathJax.Hub.Register.StartupHook('HTML-CSS Jax Ready',function () {" +
+                "var VARIANT = MathJax.OutputJax['HTML-CSS'].FONTDATA.VARIANT;" +
+                "VARIANT['normal'].fonts.unshift('MathJax_default');" +
+                "VARIANT['bold'].fonts.unshift('MathJax_default-bold');" +
+                "VARIANT['italic'].fonts.unshift('MathJax_default-italic');" +
+                "VARIANT['-tex-mathit'].fonts.unshift('MathJax_default-italic');" +
+            "});" +
+            "MathJax.Hub.Register.StartupHook('SVG Jax Ready',function () {" +
+                "var VARIANT = MathJax.OutputJax.SVG.FONTDATA.VARIANT;" +
+                "VARIANT['normal'].fonts.unshift('MathJax_default');" +
+                "VARIANT['bold'].fonts.unshift('MathJax_default-bold');" +
+                "VARIANT['italic'].fonts.unshift('MathJax_default-italic');" +
+                "VARIANT['-tex-mathit'].fonts.unshift('MathJax_default-italic');" +
+            "});" +
+        "}";
+
+    (document.body || document.getElementsByTagName('head')[0]).appendChild(configscript);
+    (document.body || document.getElementsByTagName('head')[0]).appendChild(mathjaxscript);
+}
+&lt;/script&gt;</content><category term="Information"></category></entry></feed>
