@@ -72,6 +72,9 @@ goto :venv_activate
     call git commit -m "Updated website"
     call git push origin master
     
+    echo Building the site with the deployment URL
+    call pelican content -s publishconf.py
+    
     call ghp-import output
     call git push origin gh-pages
     echo.

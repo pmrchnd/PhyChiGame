@@ -4,8 +4,7 @@
 AUTHOR = "P. Marchand"
 SITENAME = "Science en jeux"
 SITESUBTITLE = "Apprendre en jouant"
-SITEURL = "https://pmrchnd.github.io/PhyChiGame/"
-RELATIVE_URLS = False
+SITEURL = ""
 
 PATH = "content"
 #STATIC_PATHS = ["images", "extra","pdfs"]
