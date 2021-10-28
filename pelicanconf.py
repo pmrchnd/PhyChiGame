@@ -7,11 +7,15 @@ SITESUBTITLE = "Apprendre en jouant"
 SITEURL = ""
 
 PATH = "content"
-STATIC_PATHS = ["images", "extra","pdfs"]
-EXTRA_PATH_METADATA = {"extra/icone.ico": {"path": "icone.ico"}}
+#STATIC_PATHS = ["images", "extra","pdfs"]
+#EXTRA_PATH_METADATA = {"extra/icone.ico": {"path": "icone.ico"}}
 DIRECT_TEMPLATES = ["search", "index", "archives", "authors", "categories", "tags", "404"]
 PAGINATED_TEMPLATES = {"archives": None, "tag": None, "category": None, "author": None}
 
+
+STATIC_PATHS = ["images","pdfs","extra",'extra/CNAME']
+
+EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'}, "extra/icone.ico": {"path": "icone.ico"}}
 
 TIMEZONE = "Europe/Paris"
 
