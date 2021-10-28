@@ -51,5 +51,20 @@ article.description %}
     {% endif %} {{site[0]}}
   </a>
   {% endif %} {% endfor %} {% endif %} {{ article.content }}
+
+  <row>
+     {% if article.rules %}
+     <a href="{{SITEURL}}/{{article.rules}}">
+       <div class="button primary">Règles (PDF)</div>
+     </a>
+     {% endif %}
+     {% if article.materiel %}
+     <a href="{{SITEURL}}/{{article.materiel}}">
+       <div class="button primary">Matériel (PDF)</div>
+     </a>
+     {% endif %}
+  </row>
+
+
 </section>
 {% endblock content %}

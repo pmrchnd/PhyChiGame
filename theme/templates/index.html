@@ -3,29 +3,45 @@
 <section id="banner">
   <div class="content">
     <header>
+      <div class="image right docutils container">
+      <img alt="" src="/images/photo4.jpg" height=50/>
+      </div>
       <h1>
-        Hi, I’m Patricia<br />
-        Marchand
+        &phi;/&chi; Games
       </h1>
-      <p>Un site contenant des jeux de physique en libre accès.</p>
+      <p>Un site contenant des jeux de physique-chimie en libre accès.</p>
     </header>
+   
+    <p>Professeure de physique-chimie depuis 31 ans, je développe de nombreux jeux dans
+    le cadre de mes cours. Ils permettent de découvrir en s'amusant et
+    d'assimiler les connaissances sans s'en rendre compte ! Vous trouverez dans
+    ce site ces jeux, avec leurs règles et les documents nécessaires 
+    pour jouer. Ce sont des jeux souvent adaptés de jeux existants, comme par 
+    exemple le mistigri ou les dominos.</p>
+
     <p>
-      Professeure de physique depuis 31 ans, je développe de nombreux jeux dans
-      le cadre de mes cours. Ils permettent de découvrir en s'amusant et
-      d'assimiler les connaissances sans s'en rendre compte ! Vous trouverez ici
-      un grand nombre de ces jeux, avec leurs règles et les documents et outils
-      nécessaires pour jouer. Have fun !
+      J'ai ajouté aussi des jeux réalisés par des collègues et trouvés le plus
+      souvent sur des sites académiques. Pour ces jeux, le lien correspondant est
+      à chaque fois donné. 
+      Bien sûr, j'ai testé tous ces jeux dans ma classe, et pour certains d'entre eux, 
+      j'ai mis des conseils pour un bon déroulement de la séance avec vos élèves.
     </p>
+    <p>
+      Vous trouverez dans la rubrique "Sites" d'autres jeux que je n'ai pas testé mais
+      qui semblent intéressants. A chaque fois une description du jeu et le lien
+      correspondant est fourni.
+    </p>
+    <p>
+      Have fun !
+    </p>
+
     <ul class="actions">
       <li>
-        <a href="{{ SITEURL }}/pages/generic.html" class="button big">En savoir plus</a>
+        <a href="{{ SITEURL }}/pages/avis.html" class="button big">En savoir plus</a>
       </li>
     </ul>
   </div>
-  <span class="image object">
-    <!-- <img src="{{ SITEURL }}/images/main.jpg" alt="" /> -->
-    <img src="{{ SITEURL }}/images/IMAG1471.JPG" alt="" />
-  </span>
+  
 </section>
 
 <!-- Section -->
@@ -89,43 +105,19 @@
   <div class="posts">
     {% for a in articles %} {% if loop.index < 7 %} <article>
       {% if a.splash_url %}
-      <!-- <a href="{{ SITEURL }}/{{ a.url }}" class="image"><img src="{{ SITEURL }}/{{a.splash_url}}" alt="" /></a> -->
-      <div class="card-container">
-        <div class="card">
-          <a href="{{ SITEURL }}/{{ a.url }}" class="image">
-            <!-- style="background-image: url({{a.splash_url}}); background-repeat: no-repeat;
-  background-size:cover"> -->
-            <div class="card--display demo-css" style="background-image: url({{a.splash_url}});">
-              <img src=" {{ SITEURL }}/{{a.splash_url}}" style="opacity: 0%;" alt="" />
-              {% if a.splash_color%}
-              <h2 class="target" style="            
-                --tooltip-color: {{a.splash_color}};">{{ a.title }}</h2>
-              {% else %}
-              <h2 class="target" style="
-                --tooltip-color: #000000;"">{{ a.title }}</h2>
-              {% endif %}
-            </div>
-            <div class=" card--hover">
-                <h2>{{ a.title }}</h2>
-                <p>{{ a.summary }}</p>
-                <!-- <p class="link">Click to see project</p> -->
-                <div class="button primary" style="margin-top: 100px">Plus</div>
-            </div>
-          </a>
-          <div class="card--border"></div>
-        </div>
-      </div>
+      <a href="{{ SITEURL }}/{{ a.url }}" class="image"><img src="{{ SITEURL }}/{{a.splash_url}}" alt="" /></a>
+      
       {% endif %}
 
-      <!-- <h3>{{ a.title }}</h3>
+      <h3>{{ a.title }}</h3>
 
       {% if a.summary %}
-      <p>{{ a.summary }}</p> -->
-      <!-- {% endif %} -->
+      <p>{{ a.summary }}</p>
+      {% endif %}
 
-      <!-- <ul class="actions">
+      <ul class="actions">
         <li><a href="{{ SITEURL }}/{{ a.url }}" class="button">Plus</a></li>
-      </ul> -->
+      </ul>
       </article>
       {% endif %} {% endfor %}
   </div>

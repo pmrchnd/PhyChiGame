@@ -1663,8 +1663,9 @@ input[type=radio] + label:before {
   display: block;
 }
 .image.left, .image.right {
-  max-width: 40%;
+  max-width: 30%; //40%;
 }
+
 .image.left img, .image.right img {
   width: 100%;
 }

@@ -2,13 +2,13 @@
 # -*- coding: utf-8 -*- #
 
 AUTHOR = "P. Marchand"
-SITENAME = "PhysicGames"
-SITESUBTITLE = "A physics game website for teachers."
+SITENAME = "Science en jeux"
+SITESUBTITLE = "Apprendre en jouant"
 SITEURL = ""
 
 PATH = "content"
-STATIC_PATHS = ["images", "extra"]
-EXTRA_PATH_METADATA = {"extra/favicon.ico": {"path": "favicon.ico"}}
+STATIC_PATHS = ["images", "extra","pdfs"]
+EXTRA_PATH_METADATA = {"extra/icone.ico": {"path": "icone.ico"}}
 DIRECT_TEMPLATES = ["search", "index", "archives", "authors", "categories", "tags", "404"]
 PAGINATED_TEMPLATES = {"archives": None, "tag": None, "category": None, "author": None}
 
@@ -38,14 +38,19 @@ THEME = "theme"
 
 MENUITEMS = (
     ("Accueil", ""),
-    ("Generic", "pages/generic"),
-    ("2nde", "tag/super"),
-    ("Theme elements", "elements"),
-    (
-        "Pelican pages",
-        (("Archive", "archives"), ("Authors", "authors"), ("Categories", "categories"), ("Tags", "tag/dolore")),
-    ),
-    ("You can add entries in your config file", "#"),
+    ("Avis d'experts", "pages/avis"),
+    ("2nde", "tag/2nde"),
+    ("1ère","tag/1ere"),
+    ("Tle","tag/Tle"),
+    ("Enseignement scientifique","tag/ES"),
+    ("Sites","pages/sites"),
+    ("Conseils pratiques","pages/conseils"),
+    # ("Modele de page", "modele"),
+    # (
+    #     "Pelican pages",
+    #     (("Archive", "archives"), ("Authors", "authors"), ("Categories", "categories"), ("Tags", "tag/dolore")),
+    # ),
+    # ("You can add entries in your config file", "#"),
 )
 
 
