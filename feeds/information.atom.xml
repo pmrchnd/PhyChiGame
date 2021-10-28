@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Science en jeux - Information</title><link href="/" rel="alternate"></link><link href="/feeds/information.atom.xml" rel="self"></link><id>/</id><updated>2016-12-03T10:20:00+01:00</updated><subtitle>Apprendre en jouant</subtitle><entry><title>Example elements for this theme</title><link href="/modele.html" rel="alternate"></link><published>2016-12-03T10:20:00+01:00</published><updated>2016-12-03T10:20:00+01:00</updated><author><name>A.N. Other</name></author><id>tag:None,2016-12-03:/modele.html</id><summary type="html">&lt;p class="first last"&gt;This article contains an example of all the elements in a page for this theme&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Science en jeux - Information</title><link href="https://pmrchnd.github.io/PhyChiGame/" rel="alternate"></link><link href="https://pmrchnd.github.io/PhyChiGame/feeds/information.atom.xml" rel="self"></link><id>https://pmrchnd.github.io/PhyChiGame/</id><updated>2016-12-03T10:20:00+01:00</updated><subtitle>Apprendre en jouant</subtitle><entry><title>Example elements for this theme</title><link href="https://pmrchnd.github.io/PhyChiGame/modele.html" rel="alternate"></link><published>2016-12-03T10:20:00+01:00</published><updated>2016-12-03T10:20:00+01:00</updated><author><name>A.N. Other</name></author><id>tag:pmrchnd.github.io,2016-12-03:/PhyChiGame/modele.html</id><summary type="html">&lt;p class="first last"&gt;This article contains an example of all the elements in a page for this theme&lt;/p&gt;
 </summary><content type="html">&lt;div class="row section" id="sample-content"&gt;
 &lt;h2&gt;Sample Content&lt;/h2&gt;
 &lt;p&gt;Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut
@@ -205,54 +205,54 @@ adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus.&lt;/blo
 &lt;h4&gt;Images&lt;/h4&gt;
 &lt;!-- SINGLE PICTURE --&gt;
 &lt;div class="image fit docutils container"&gt;
-&lt;img alt="" src="/images/main.jpg" /&gt;
+&lt;img alt="" src="https://pmrchnd.github.io/PhyChiGame/images/main.jpg" /&gt;
 &lt;/div&gt;
 &lt;!-- GRID --&gt;
 &lt;div class="box alt docutils container"&gt;
 &lt;div class="row gtr-50 gtr-uniform docutils container"&gt;
 &lt;div class="col-4 docutils container"&gt;
 &lt;div class="image fit docutils container"&gt;
-&lt;img alt="" src="/images/pic06.jpg" /&gt;
+&lt;img alt="" src="https://pmrchnd.github.io/PhyChiGame/images/pic06.jpg" /&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="col-4 docutils container"&gt;
 &lt;div class="image fit docutils container"&gt;
-&lt;img alt="" src="/images/pic05.jpg" /&gt;
+&lt;img alt="" src="https://pmrchnd.github.io/PhyChiGame/images/pic05.jpg" /&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="col-4 docutils container"&gt;
 &lt;div class="image fit docutils container"&gt;
-&lt;img alt="" src="/images/pic04.jpg" /&gt;
+&lt;img alt="" src="https://pmrchnd.github.io/PhyChiGame/images/pic04.jpg" /&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="col-4 docutils container"&gt;
 &lt;div class="image fit docutils container"&gt;
-&lt;img alt="" src="/images/pic04.jpg" /&gt;
+&lt;img alt="" src="https://pmrchnd.github.io/PhyChiGame/images/pic04.jpg" /&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="col-4 docutils container"&gt;
 &lt;div class="image fit docutils container"&gt;
-&lt;img alt="" src="/images/pic06.jpg" /&gt;
+&lt;img alt="" src="https://pmrchnd.github.io/PhyChiGame/images/pic06.jpg" /&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="col-4 docutils container"&gt;
 &lt;div class="image fit docutils container"&gt;
-&lt;img alt="" src="/images/pic05.jpg" /&gt;
+&lt;img alt="" src="https://pmrchnd.github.io/PhyChiGame/images/pic05.jpg" /&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="col-4 docutils container"&gt;
 &lt;div class="image fit docutils container"&gt;
-&lt;img alt="" src="/images/pic05.jpg" /&gt;
+&lt;img alt="" src="https://pmrchnd.github.io/PhyChiGame/images/pic05.jpg" /&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="col-4 docutils container"&gt;
 &lt;div class="image fit docutils container"&gt;
-&lt;img alt="" src="/images/pic04.jpg" /&gt;
+&lt;img alt="" src="https://pmrchnd.github.io/PhyChiGame/images/pic04.jpg" /&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="col-4 docutils container"&gt;
 &lt;div class="image fit docutils container"&gt;
-&lt;img alt="" src="/images/pic06.jpg" /&gt;
+&lt;img alt="" src="https://pmrchnd.github.io/PhyChiGame/images/pic06.jpg" /&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -261,7 +261,7 @@ adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus.&lt;/blo
 &lt;div class="section" id="left-right"&gt;
 &lt;h4&gt;Left &amp;amp; Right&lt;/h4&gt;
 &lt;div class="image left docutils container"&gt;
-&lt;img alt="" src="/images/pic06.jpg" /&gt;
+&lt;img alt="" src="https://pmrchnd.github.io/PhyChiGame/images/pic06.jpg" /&gt;
 &lt;/div&gt;
 &lt;p&gt;Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis
 eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum.
@@ -272,7 +272,7 @@ Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu
 felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac
 pellentesque praesent.&lt;/p&gt;
 &lt;div class="image right docutils container"&gt;
-&lt;img alt="" src="/images/pic05.jpg" /&gt;
+&lt;img alt="" src="https://pmrchnd.github.io/PhyChiGame/images/pic05.jpg" /&gt;
 &lt;/div&gt;
 &lt;p&gt;Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis
 eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum.

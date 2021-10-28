@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Science en jeux - P. Marchand</title><link href="/" rel="alternate"></link><link href="/feeds/p-marchand.atom.xml" rel="self"></link><id>/</id><updated>2021-09-04T12:50:00+02:00</updated><subtitle>Apprendre en jouant</subtitle><entry><title>Escape Game</title><link href="/escape-game.html" rel="alternate"></link><published>2021-09-04T12:50:00+02:00</published><updated>2021-09-04T12:50:00+02:00</updated><author><name>P. Marchand</name></author><id>tag:None,2021-09-04:/escape-game.html</id><summary type="html">&lt;p class="first last"&gt;Jeu de cartes basé sur le principe d’un escape game sur le thème de la musique.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Science en jeux - P. Marchand</title><link href="https://pmrchnd.github.io/PhyChiGame/" rel="alternate"></link><link href="https://pmrchnd.github.io/PhyChiGame/feeds/p-marchand.atom.xml" rel="self"></link><id>https://pmrchnd.github.io/PhyChiGame/</id><updated>2021-09-04T12:50:00+02:00</updated><subtitle>Apprendre en jouant</subtitle><entry><title>Escape Game</title><link href="https://pmrchnd.github.io/PhyChiGame/escape-game.html" rel="alternate"></link><published>2021-09-04T12:50:00+02:00</published><updated>2021-09-04T12:50:00+02:00</updated><author><name>P. Marchand</name></author><id>tag:pmrchnd.github.io,2021-09-04:/PhyChiGame/escape-game.html</id><summary type="html">&lt;p class="first last"&gt;Jeu de cartes basé sur le principe d’un escape game sur le thème de la musique.&lt;/p&gt;
 </summary><content type="html">&lt;hr class="docutils" /&gt;
 &lt;p&gt;Ce jeu a été réalisé à l'aide du site &amp;quot;Serious Escape Cards&amp;quot; qui propose clé en main de créer des escape games.&lt;/p&gt;
 &lt;p&gt;Lien : &lt;a class="reference external" href="https://escapecards.fr/"&gt;Site de Serious Escape Cards&lt;/a&gt;&lt;/p&gt;
@@ -29,7 +29,7 @@
 &lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-</content><category term="Review"></category><category term="2nde"></category></entry><entry><title>GaAg</title><link href="/gaag.html" rel="alternate"></link><published>2021-09-04T11:40:00+02:00</published><updated>2021-09-04T11:40:00+02:00</updated><author><name>P. Marchand</name></author><id>tag:None,2021-09-04:/gaag.html</id><summary type="html">&lt;p class="first last"&gt;Jeu de cartes pour apprendre les éléments (nom, valeur de Z, position dans le tableau) des trois premières lignes du tableau périodique.&lt;/p&gt;
+</content><category term="Review"></category><category term="2nde"></category></entry><entry><title>GaAg</title><link href="https://pmrchnd.github.io/PhyChiGame/gaag.html" rel="alternate"></link><published>2021-09-04T11:40:00+02:00</published><updated>2021-09-04T11:40:00+02:00</updated><author><name>P. Marchand</name></author><id>tag:pmrchnd.github.io,2021-09-04:/PhyChiGame/gaag.html</id><summary type="html">&lt;p class="first last"&gt;Jeu de cartes pour apprendre les éléments (nom, valeur de Z, position dans le tableau) des trois premières lignes du tableau périodique.&lt;/p&gt;
 </summary><content type="html">&lt;hr class="docutils" /&gt;
 &lt;p&gt;Jeu inspiré du jeu de cartes MOW.&lt;/p&gt;
 &lt;hr class="docutils" /&gt;
@@ -91,7 +91,7 @@
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-</content><category term="Review"></category><category term="2nde"></category></entry><entry><title>Concept</title><link href="/concept.html" rel="alternate"></link><published>2021-08-27T09:40:00+02:00</published><updated>2021-08-27T09:40:00+02:00</updated><author><name>P. Marchand</name></author><id>tag:None,2021-08-27:/concept.html</id><summary type="html">&lt;p class="first last"&gt;Revoir les différentes notions vues tout au long de l'année&lt;/p&gt;
+</content><category term="Review"></category><category term="2nde"></category></entry><entry><title>Concept</title><link href="https://pmrchnd.github.io/PhyChiGame/concept.html" rel="alternate"></link><published>2021-08-27T09:40:00+02:00</published><updated>2021-08-27T09:40:00+02:00</updated><author><name>P. Marchand</name></author><id>tag:pmrchnd.github.io,2021-08-27:/PhyChiGame/concept.html</id><summary type="html">&lt;p class="first last"&gt;Revoir les différentes notions vues tout au long de l'année&lt;/p&gt;
 </summary><content type="html">&lt;hr class="docutils" /&gt;
 &lt;p&gt;Jeu inspiré du jeu homonyme &lt;strong&gt;Concept&lt;/strong&gt; édité par &lt;strong&gt;Repos production&lt;/strong&gt; et sorti en 2014.&lt;/p&gt;
 &lt;hr class="docutils" /&gt;
@@ -125,7 +125,7 @@ Revoir les différentes notions vues tout au long de l'année&lt;/blockquote&gt;
 &lt;p&gt;Dans le fichier PDF, la règle est plus détaillée, en particulier un exemple est fourni.&lt;/p&gt;
 &lt;p&gt;Les jetons peuvent être réalisés avec une imprimante 3D our vous pouvez aussi prendre des haricots secs sur lesquels vous mettez des points colorés !&lt;/p&gt;
 &lt;/div&gt;
-</content><category term="Review"></category><category term="2nde"></category><category term="1ère"></category><category term="Tle"></category></entry><entry><title>Mistigri</title><link href="/mistigri.html" rel="alternate"></link><published>2021-08-26T10:17:00+02:00</published><updated>2021-08-26T10:17:00+02:00</updated><author><name>P. Marchand</name></author><id>tag:None,2021-08-26:/mistigri.html</id><summary type="html">&lt;p class="first last"&gt;L’objectif de ce jeu est d’associer par paire une carte élément avec sa position dans le tableau et une carte structure électronique. Une version &amp;quot;jeu de 7 familles&amp;quot; est aussi proposée.&lt;/p&gt;
+</content><category term="Review"></category><category term="2nde"></category><category term="1ère"></category><category term="Tle"></category></entry><entry><title>Mistigri</title><link href="https://pmrchnd.github.io/PhyChiGame/mistigri.html" rel="alternate"></link><published>2021-08-26T10:17:00+02:00</published><updated>2021-08-26T10:17:00+02:00</updated><author><name>P. Marchand</name></author><id>tag:pmrchnd.github.io,2021-08-26:/PhyChiGame/mistigri.html</id><summary type="html">&lt;p class="first last"&gt;L’objectif de ce jeu est d’associer par paire une carte élément avec sa position dans le tableau et une carte structure électronique. Une version &amp;quot;jeu de 7 familles&amp;quot; est aussi proposée.&lt;/p&gt;
 </summary><content type="html">&lt;hr class="docutils" /&gt;
 &lt;div class="section" id="version-1-mistigri"&gt;
 &lt;h2&gt;Version 1 : Mistigri&lt;/h2&gt;
@@ -212,7 +212,7 @@ Revoir les différentes notions vues tout au long de l'année&lt;/blockquote&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-</content><category term="Review"></category><category term="2nde"></category></entry><entry><title>Memory</title><link href="/memory.html" rel="alternate"></link><published>2021-08-26T09:18:00+02:00</published><updated>2021-08-26T09:18:00+02:00</updated><author><name>P. Marchand</name></author><id>tag:None,2021-08-26:/memory.html</id><summary type="html">&lt;p class="first last"&gt;Se familiariser avec les notions de stéréoisomères, de diastéréoisomères et d'énantionmères&lt;/p&gt;
+</content><category term="Review"></category><category term="2nde"></category></entry><entry><title>Memory</title><link href="https://pmrchnd.github.io/PhyChiGame/memory.html" rel="alternate"></link><published>2021-08-26T09:18:00+02:00</published><updated>2021-08-26T09:18:00+02:00</updated><author><name>P. Marchand</name></author><id>tag:pmrchnd.github.io,2021-08-26:/PhyChiGame/memory.html</id><summary type="html">&lt;p class="first last"&gt;Se familiariser avec les notions de stéréoisomères, de diastéréoisomères et d'énantionmères&lt;/p&gt;
 </summary><content type="html">&lt;hr class="docutils" /&gt;
 &lt;div class="section" id="jeu-memory"&gt;
 &lt;h2&gt;Jeu Mémory&lt;/h2&gt;
@@ -258,7 +258,7 @@ Revoir les différentes notions vues tout au long de l'année&lt;/blockquote&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-</content><category term="Review"></category><category term="Tle"></category></entry><entry><title>Pictionnary</title><link href="/pictionnary.html" rel="alternate"></link><published>2021-08-25T13:40:00+02:00</published><updated>2021-08-25T13:40:00+02:00</updated><author><name>P. Marchand</name></author><id>tag:None,2021-08-25:/pictionnary.html</id><summary type="html">&lt;p class="first last"&gt;Jeu de fin d'année ou en l'aménageant de fin de chapitre pour revoir les différentes notions vues en cours&lt;/p&gt;
+</content><category term="Review"></category><category term="Tle"></category></entry><entry><title>Pictionnary</title><link href="https://pmrchnd.github.io/PhyChiGame/pictionnary.html" rel="alternate"></link><published>2021-08-25T13:40:00+02:00</published><updated>2021-08-25T13:40:00+02:00</updated><author><name>P. Marchand</name></author><id>tag:pmrchnd.github.io,2021-08-25:/PhyChiGame/pictionnary.html</id><summary type="html">&lt;p class="first last"&gt;Jeu de fin d'année ou en l'aménageant de fin de chapitre pour revoir les différentes notions vues en cours&lt;/p&gt;
 </summary><content type="html">&lt;hr class="docutils" /&gt;
 &lt;div class="section" id="regle-du-jeu"&gt;
 &lt;h2&gt;Règle du jeu&lt;/h2&gt;
@@ -305,7 +305,7 @@ Chaque équipe doit lancer le dé c’est celle qui a fait le nombre le plus él
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-</content><category term="Review"></category><category term="2nde"></category></entry><entry><title>Unités d'énergie</title><link href="/unites-denergie.html" rel="alternate"></link><published>2021-08-25T10:40:00+02:00</published><updated>2021-08-25T10:40:00+02:00</updated><author><name>P. Marchand</name></author><id>tag:None,2021-08-25:/unites-denergie.html</id><summary type="html">&lt;p class="first last"&gt;Jeu de l'oie pour se familiariser avec les unités d'énergie et de puissance.&lt;/p&gt;
+</content><category term="Review"></category><category term="2nde"></category></entry><entry><title>Unités d'énergie</title><link href="https://pmrchnd.github.io/PhyChiGame/unites-denergie.html" rel="alternate"></link><published>2021-08-25T10:40:00+02:00</published><updated>2021-08-25T10:40:00+02:00</updated><author><name>P. Marchand</name></author><id>tag:pmrchnd.github.io,2021-08-25:/PhyChiGame/unites-denergie.html</id><summary type="html">&lt;p class="first last"&gt;Jeu de l'oie pour se familiariser avec les unités d'énergie et de puissance.&lt;/p&gt;
 </summary><content type="html">&lt;hr class="docutils" /&gt;
 &lt;div class="section" id="regles-du-jeu"&gt;
 &lt;h2&gt;Règles du jeu&lt;/h2&gt;
@@ -324,7 +324,7 @@ Chaque équipe doit lancer le dé c’est celle qui a fait le nombre le plus él
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-</content><category term="Review"></category><category term="ES"></category></entry><entry><title>Sizeline</title><link href="/sizeline.html" rel="alternate"></link><published>2021-08-25T09:54:00+02:00</published><updated>2021-08-25T09:54:00+02:00</updated><author><name>P. Marchand</name></author><id>tag:None,2021-08-25:/sizeline.html</id><summary type="html">&lt;p class="first last"&gt;Se familiariser avec les ordres de grandeur&lt;/p&gt;
+</content><category term="Review"></category><category term="ES"></category></entry><entry><title>Sizeline</title><link href="https://pmrchnd.github.io/PhyChiGame/sizeline.html" rel="alternate"></link><published>2021-08-25T09:54:00+02:00</published><updated>2021-08-25T09:54:00+02:00</updated><author><name>P. Marchand</name></author><id>tag:pmrchnd.github.io,2021-08-25:/PhyChiGame/sizeline.html</id><summary type="html">&lt;p class="first last"&gt;Se familiariser avec les ordres de grandeur&lt;/p&gt;
 </summary><content type="html">&lt;hr class="docutils" /&gt;
 &lt;div class="section" id="but-du-jeu"&gt;
 &lt;h2&gt;But du jeu&lt;/h2&gt;
@@ -366,7 +366,7 @@ Chaque équipe doit lancer le dé c’est celle qui a fait le nombre le plus él
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-</content><category term="Review"></category><category term="2nde"></category><category term="1ère"></category><category term="Tle"></category></entry><entry><title>Question loop: La mole</title><link href="/question-loop-la-mole.html" rel="alternate"></link><published>2021-08-25T09:28:00+02:00</published><updated>2021-08-25T09:28:00+02:00</updated><author><name>P. Marchand</name></author><id>tag:None,2021-08-25:/question-loop-la-mole.html</id><summary type="html">&lt;p class="first last"&gt;Jeu de questions-réponses permettant aux élèves de se familiariser avec la notion de mole.&lt;/p&gt;
+</content><category term="Review"></category><category term="2nde"></category><category term="1ère"></category><category term="Tle"></category></entry><entry><title>Question loop: La mole</title><link href="https://pmrchnd.github.io/PhyChiGame/question-loop-la-mole.html" rel="alternate"></link><published>2021-08-25T09:28:00+02:00</published><updated>2021-08-25T09:28:00+02:00</updated><author><name>P. Marchand</name></author><id>tag:pmrchnd.github.io,2021-08-25:/PhyChiGame/question-loop-la-mole.html</id><summary type="html">&lt;p class="first last"&gt;Jeu de questions-réponses permettant aux élèves de se familiariser avec la notion de mole.&lt;/p&gt;
 </summary><content type="html">&lt;hr class="docutils" /&gt;
 &lt;div class="section" id="regle-du-jeu"&gt;
 &lt;h2&gt;Règle du jeu&lt;/h2&gt;
@@ -388,7 +388,7 @@ Chaque équipe doit lancer le dé c’est celle qui a fait le nombre le plus él
 &lt;div class="section" id="deroulement-du-jeu"&gt;
 &lt;h3&gt;Déroulement du jeu&lt;/h3&gt;
 &lt;div class="image docutils container"&gt;
-&lt;img alt="" src="/images/question_loop_mole.jpg" /&gt;
+&lt;img alt="" src="https://pmrchnd.github.io/PhyChiGame/images/question_loop_mole.jpg" /&gt;
 &lt;/div&gt;
 &lt;ol class="arabic simple"&gt;
 &lt;li&gt;Découper le tableau par ligne, chaque ligne ayant dans la case de gauche une question et dans celle de droite une réponse qui ne correspond pas à la question.&lt;/li&gt;
@@ -399,7 +399,7 @@ Chaque équipe doit lancer le dé c’est celle qui a fait le nombre le plus él
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-</content><category term="Review"></category><category term="2nde"></category><category term="1ère"></category></entry><entry><title>Domino sur la nomenclature en chimie</title><link href="/domino-sur-la-nomenclature-en-chimie.html" rel="alternate"></link><published>2021-08-24T10:00:00+02:00</published><updated>2021-08-24T10:00:00+02:00</updated><author><name>P. Marchand</name></author><id>tag:None,2021-08-24:/domino-sur-la-nomenclature-en-chimie.html</id><summary type="html">&lt;p class="first last"&gt;Jeu de domino pour se familiariser avec les règles de nomenclature en chimie&lt;/p&gt;
+</content><category term="Review"></category><category term="2nde"></category><category term="1ère"></category></entry><entry><title>Domino sur la nomenclature en chimie</title><link href="https://pmrchnd.github.io/PhyChiGame/domino-sur-la-nomenclature-en-chimie.html" rel="alternate"></link><published>2021-08-24T10:00:00+02:00</published><updated>2021-08-24T10:00:00+02:00</updated><author><name>P. Marchand</name></author><id>tag:pmrchnd.github.io,2021-08-24:/PhyChiGame/domino-sur-la-nomenclature-en-chimie.html</id><summary type="html">&lt;p class="first last"&gt;Jeu de domino pour se familiariser avec les règles de nomenclature en chimie&lt;/p&gt;
 </summary><content type="html">&lt;hr class="docutils" /&gt;
 &lt;div class="section" id="regle-du-jeu"&gt;
 &lt;h2&gt;Règle du jeu&lt;/h2&gt;
@@ -422,7 +422,7 @@ Chaque équipe doit lancer le dé c’est celle qui a fait le nombre le plus él
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-</content><category term="Review"></category><category term="Tle"></category></entry><entry><title>Jeu de 7 familles</title><link href="/jeu-de-7-familles.html" rel="alternate"></link><published>2021-08-24T09:40:00+02:00</published><updated>2021-08-24T09:40:00+02:00</updated><author><name>P. Marchand</name></author><id>tag:None,2021-08-24:/jeu-de-7-familles.html</id><summary type="html">&lt;p class="first last"&gt;Jeu de 7 familles permettant d'apprendre les familles chimiques&lt;/p&gt;
+</content><category term="Review"></category><category term="Tle"></category></entry><entry><title>Jeu de 7 familles</title><link href="https://pmrchnd.github.io/PhyChiGame/jeu-de-7-familles.html" rel="alternate"></link><published>2021-08-24T09:40:00+02:00</published><updated>2021-08-24T09:40:00+02:00</updated><author><name>P. Marchand</name></author><id>tag:pmrchnd.github.io,2021-08-24:/PhyChiGame/jeu-de-7-familles.html</id><summary type="html">&lt;p class="first last"&gt;Jeu de 7 familles permettant d'apprendre les familles chimiques&lt;/p&gt;
 </summary><content type="html">&lt;hr class="docutils" /&gt;
 &lt;div class="section" id="regle-du-jeu"&gt;
 &lt;h2&gt;Règle du jeu&lt;/h2&gt;
@@ -444,7 +444,7 @@ Chaque équipe doit lancer le dé c’est celle qui a fait le nombre le plus él
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-</content><category term="Review"></category><category term="2nde"></category><category term="1ère"></category></entry><entry><title>Chiffres significatifs</title><link href="/chiffres-significatifs.html" rel="alternate"></link><published>2021-08-20T22:56:00+02:00</published><updated>2021-08-20T22:56:00+02:00</updated><author><name>P. Marchand</name></author><id>tag:None,2021-08-20:/chiffres-significatifs.html</id><summary type="html">&lt;p class="first last"&gt;kldhgmkfdhgsùdfhklùsfhsùfkhgsùf dsjqgjdlkhgsmdk kgfkdhgmskdhgks kgshmdkghmskfdhgmsdkf&lt;/p&gt;
+</content><category term="Review"></category><category term="2nde"></category><category term="1ère"></category></entry><entry><title>Chiffres significatifs</title><link href="https://pmrchnd.github.io/PhyChiGame/chiffres-significatifs.html" rel="alternate"></link><published>2021-08-20T22:56:00+02:00</published><updated>2021-08-20T22:56:00+02:00</updated><author><name>P. Marchand</name></author><id>tag:pmrchnd.github.io,2021-08-20:/PhyChiGame/chiffres-significatifs.html</id><summary type="html">&lt;p class="first last"&gt;kldhgmkfdhgsùdfhklùsfhsùfkhgsùf dsjqgjdlkhgsmdk kgfkdhgmskdhgks kgshmdkghmskfdhgmsdkf&lt;/p&gt;
 </summary><content type="html">&lt;hr class="docutils" /&gt;
 &lt;div class="section" id="regle-du-jeu"&gt;
 &lt;h2&gt;Règle du jeu&lt;/h2&gt;
@@ -466,7 +466,7 @@ Chaque équipe doit lancer le dé c’est celle qui a fait le nombre le plus él
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-</content><category term="Review"></category><category term="2nde"></category></entry><entry><title>Question loop: Atomes</title><link href="/question-loop-atomes.html" rel="alternate"></link><published>2021-08-20T19:58:00+02:00</published><updated>2021-08-20T19:58:00+02:00</updated><author><name>P. Marchand</name></author><id>tag:None,2021-08-20:/question-loop-atomes.html</id><summary type="html">&lt;p class="first last"&gt;Jeu de questions-réponses permettant aux élèves de se familiariser avecle symbole de l'atome et sa constitution.&lt;/p&gt;
+</content><category term="Review"></category><category term="2nde"></category></entry><entry><title>Question loop: Atomes</title><link href="https://pmrchnd.github.io/PhyChiGame/question-loop-atomes.html" rel="alternate"></link><published>2021-08-20T19:58:00+02:00</published><updated>2021-08-20T19:58:00+02:00</updated><author><name>P. Marchand</name></author><id>tag:pmrchnd.github.io,2021-08-20:/PhyChiGame/question-loop-atomes.html</id><summary type="html">&lt;p class="first last"&gt;Jeu de questions-réponses permettant aux élèves de se familiariser avecle symbole de l'atome et sa constitution.&lt;/p&gt;
 </summary><content type="html">&lt;hr class="docutils" /&gt;
 &lt;div class="section" id="regle-du-jeu"&gt;
 &lt;h2&gt;Règle du jeu&lt;/h2&gt;
@@ -486,7 +486,7 @@ Chaque équipe doit lancer le dé c’est celle qui a fait le nombre le plus él
 &lt;div class="section" id="deroulement-du-jeu"&gt;
 &lt;h3&gt;Déroulement du jeu&lt;/h3&gt;
 &lt;div class="image docutils container"&gt;
-&lt;img alt="" src="/images/question_loop_atomes_jeu.jpg" /&gt;
+&lt;img alt="" src="https://pmrchnd.github.io/PhyChiGame/images/question_loop_atomes_jeu.jpg" /&gt;
 &lt;/div&gt;
 &lt;ol class="arabic simple"&gt;
 &lt;li&gt;Découper le tableau par ligne, chaque ligne ayant dans la case de gauche une question et dans celle de droite une réponse qui ne correspond pas à la question.&lt;/li&gt;
