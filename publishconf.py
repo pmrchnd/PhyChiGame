@@ -12,6 +12,6 @@ from pelicanconf import *
 
 # If your site is available via HTTPS, make sure SITEURL begins with https://
 SITEURL = "https://pmrchnd.github.io/PhyChiGame/"
-RELATIVE_URLS = False
+RELATIVE_URLS = True
 
 DELETE_OUTPUT_DIRECTORY = True
