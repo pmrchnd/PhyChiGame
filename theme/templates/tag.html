@@ -1,7 +1,9 @@
 {% extends "archives.html" %} {% block title %}{{ SITENAME }} - Jeux pour la
 classe de {{ tag }}{% endblock %} {% block content_title %}
-{% if tag == "tle" %}
+{% if tag == 'tle' %}
 <h1>Jeux pour la classe de Terminale</h1>
+{% elif tag == 'es' %}
+<h1>Jeux pour la classe d'Enseignement Scientifique</h1>
 {% else %}
 <h1>Jeux pour la classe de {{ tag }}</h1>
 {% endif %}
