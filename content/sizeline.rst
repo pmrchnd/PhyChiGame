@@ -4,7 +4,7 @@ Sizeline
 
 :date: 2021-08-25 09:54
 :category: Review
-:tags: 2nde, 1ère, Tle
+:tags: 2nde, 1ère, tle
 :splash_url: images/sizeline.png
 :rules: pdfs/sizeline-rules.pdf
 :materiel: pdfs/sizeline-materiel.pdf

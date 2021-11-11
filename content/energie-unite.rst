@@ -4,7 +4,7 @@ Unités d'énergie
 
 :date: 2021-08-25 10:40
 :category: Review
-:tags: ES
+:tags: es
 :splash_url: images/energie-unite.jpg
 :rules: pdfs/energie-unite-rules.pdf
 :materiel: pdfs/energie-unite-materiel.pdf

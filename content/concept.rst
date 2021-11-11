@@ -4,7 +4,7 @@ Concept
 
 :date: 2021-08-27 09:40
 :category: Review
-:tags: 2nde, 1ère, Tle
+:tags: 2nde, 1ère, tle
 :splash_url: images/concept.jpg
 :rules: pdfs/concept-rules.pdf
 :materiel: pdfs/concept-materiel.pdf

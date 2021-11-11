@@ -4,7 +4,7 @@ Memory
 
 :date: 2021-08-26 9:18
 :category: Review
-:tags: Tle
+:tags: tle
 :splash_url: images/memory3.png
 :rules: pdfs/memory-rules.pdf
 :materiel: pdfs/memory-materiel.pdf

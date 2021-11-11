@@ -4,7 +4,7 @@ Domino sur la nomenclature en chimie
 
 :date: 2021-08-24 10:00
 :category: Review
-:tags: Tle
+:tags: tle
 :splash_url: images/nomenclature.jpg
 :rules: pdfs/nomenclature-domino-rules.pdf
 :materiel: pdfs/nomenclature-domino-materiel.pdf
