@@ -50,7 +50,7 @@ Les conditions de réussite
 
 Est-ce que je crois que le jeu peut apporter quelques chose à ma pratique ? 
 Suis je à l’aise avec l’idée d’enseigner avec le jeu ?
-Si les réponses sont négatives, ne vous forcez pascar sans chaleur et sans
+Si les réponses sont négatives, ne vous forcez pas car sans chaleur et sans
 conviction de l’animateur que le jeu est un « plus », l’outil ne fonctionnera pas.
 
 
