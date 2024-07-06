@@ -5,7 +5,7 @@
 :date: 2022-10-24 11:17
 :category: Review
 :tags: 2nde, 1ère, tle
-:splash_url: images/Grandeur-Unite.png
+:splash_url: images/unite-mesure.jpg
 :rules: pdfs/7familles-grandeurs-unites-rules.pdf
 :materiel: pdfs/7familles-grandeurs-unites-materiel.pdf
 :summary: L’objectif de ce jeu est de former le plus possible de familles. Pour avoir une famille, il faut réunir cinq cartes : grandeur, symbole de la grandeur, unité, symbole de l'unité, appareil de mesure.
