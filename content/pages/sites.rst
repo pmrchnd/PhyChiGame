@@ -88,3 +88,14 @@ tout en conservant les objectifs pédagogiques visés par  les  premiers  concep
 (Jean-Marie  Lehn - Prix Nobel de Chimie 1987, Michèle Kirch, Volker Berl).
 
 Lien : `Site du jeu Moleko <http://www.moleko.fr/collectif/>`_
+
+
+-----
+
+Femmes scientifiques et techniciennes à travers les époques
+-----------------------------------------------------------
+
+Dans ce jeu, l'objectif est de remettre en ordre la chronologie d'événements liés à 
+des femmes scientifiques ou des techniciennes. Il est inspiré du jeu "Timeline".
+
+lien : `Site de la cité des sciences <https://www.cite-sciences.fr/fr/au-programme/lieux-ressources/carrefour-numerique2/ressources-en-ligne/jeu-femmes-scientifiques/>`_
